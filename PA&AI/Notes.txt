@@ -1,0 +1,36 @@
+Business Analytics (BA) – is the act of bringing quantitative data to bear on decision making.
+In simple terms --- is data visualization and reporting for understand “what happened and what is happening.
+Benefits:
+1. More Informed Decision-Making - data-driven decision-making
+2. Improved Operational Efficiency
+
+How BI based decision should be taken?
+	A business decision should always be backed by data
+	How to Collect this data?  ---- By identifying right KPIs
+	What is a good KPI for business analysts?
+		Agreed - all stakeholders should agree on the business analysts’ KPIs.
+		Calibrated - scaled with expectations, scope and goals.
+		Proper to the business environment - a KPI should be applicable to the relevant context of usage 
+		Relevant to the assessment purpose - a KPI target purpose should be clearly stated - to predict  or to track  the business analysts’ work.
+		Weighted – KPIs should have its own weight and priority may not weigh equally.
+	
+	How often the KPIs should be consumed and refined?
+	There are two main cycles of consuming and refining KPIs:
+		each deliverable should end up with retrospection of the achieved
+		
+		
+automation vs autonomous:
+	Automation refers to the ability of a system to control. Ex- a vehicle, like autopilot or cruise control.
+	Autonomous is the ability of a system to not only control a vehicle but respond to unexpected hazards. An autonomous system, learns and adapts to dynamic environments, and evolves as the environment around it changes. 
+	
+4 phases of data analytics:
+	analytics 1.0
+	big data - 2.0
+	big data + IOT - 3.0
+	Autonomous - 4.0
+	
+Q. How to do data analytics - By gathering data --- which should be based on market study
+
+Read case study - 
+	CDMA + relience 
+	AArogya setu app 
