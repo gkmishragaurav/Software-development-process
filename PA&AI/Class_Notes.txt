@@ -34,3 +34,68 @@ Q. How to do data analytics - By gathering data --- which should be based on mar
 Read case study - 
 	CDMA + relience 
 	AArogya setu app 
+	
+Descriptive analysis:
+	- What happeded?
+	- what is happening?
+	Tools:
+		Business reporting
+		dashboard
+		scoreboard
+		data warehousing
+	Outcome:
+		Well defined business problems and opportunities.
+		
+Predictive analysis:
+	- What will happen?
+	- Why will it happen?
+	Tools:
+		Data Mining
+		Text mining
+		forecasting
+	Outcome:
+		Accurate projections of future events and outcomes.
+		
+Prescriptive analytics:
+	- making likey forecasting
+	- What we do moving forward?
+	Tools:
+		Optimization
+		simulation
+		decision modeling
+		expert systems
+	Outcome:
+		Best possible decision and action
+
+What is Data Warehousing?
+	A Data Warehousing (DW) is process for collecting and managing data from varied sources to provide meaningful business insights.
+	A Data warehouse is typically used to connect and analyze business data from heterogeneous sources. 
+
+Properties of data warehousing:
+	1. subject oriented - data warehousing process is proposed to handle with a specific theme which is more defined. These themes can be sales, distributions, marketing etc.
+	2. Integrated – It is somewhere same as subject orientation which is made in a reliable format.  Integration means founding a shared entity to scale the all similar data from the different databases. The data also required to be resided into various data warehouse in shared and generally granted manner.
+	3. Time-Variant – In this data is maintained via different intervals of time such as weekly, monthly, or annually etc. It founds various time limit which are structured between the large datasets and are held in online transaction process (OLTP). The time limits for data warehouse is wide-ranged than that of operational systems.
+	4. Non-Volatile – As the name defines the data resided in data warehouse is permanent. It also means that data is not erased or deleted when new data is inserted. It includes the mammoth quantity of data that is inserted into modification between the selected quantity on logical business. It evaluates the analysis within the technologies of warehouse.
+	
+language used for data manupulation called - DML - data manupulation language 
+
+Database vs data warehouse
+	- Database is a collection of related data that represents some elements of the real world whereas Data warehouse is an information system that stores historical and commutative data from single or multiple sources.
+	- Database is designed to record data whereas the Data warehouse is designed to analyze data.
+	- Database is application-oriented-collection of data whereas Data Warehouse is the subject-oriented collection of data.
+	- Database uses Online Transactional Processing (OLTP) whereas Data warehouse uses Online Analytical Processing (OLAP).
+	- Database tables and joins are complicated because they are normalized whereas Data Warehouse tables and joins are easy because they are denormalized.
+	- ER modeling techniques are used for designing Database whereas data modeling techniques are used for designing Data Warehouse.
+	
+oltp vs opal:
+	- oltp is an online transactional system. It manages database modification. OLAP is an online analysis and data retrieving process.
+	- OLAP creates a single platform for all type of business analysis needs which includes planning, budgeting, forecasting, and analysis while OLTP is useful to administer day to day transactions of an organization.
+	- OLAP is characterized by a large volume of data while OLTP is characterized by large numbers of short online transactions.
+	- In OLAP, data warehouse is created uniquely so that it can integrate different data sources for building a consolidated database whereas OLTP uses traditional DBMS.
+	
+Pyramid Diagram of Organizational levels and information requirements:
+	for detail reading - https://www.guru99.com/mis-types-information-system.html
+	3layers:
+	top layer - ESS - Executive support system - this data always unstructured 
+	middle layer - MIS/DIS - management support system/decision support system - data is semi structured.
+	bottom layer - TPS - Transaction Processing System - data is highly structured
