@@ -99,3 +99,50 @@ Pyramid Diagram of Organizational levels and information requirements:
 	top layer - ESS - Executive support system - this data always unstructured 
 	middle layer - MIS/DIS - management support system/decision support system - data is semi structured.
 	bottom layer - TPS - Transaction Processing System - data is highly structured
+
+What is OLAP?
+	Online Analytical Processing (OLAP) is a category of software that allows users to analyze information from multiple database systems at the same time. It is a technology that enables analysts to extract and view business data from different points of view.
+		
+OLAP cube:
+	for details - 
+	https://www.guru99.com/online-analytical-processing.html
+	https://galaktika-soft.com/blog/olap-cubes.html
+	1. At the core of the OLAP concept, is an OLAP Cube. The OLAP cube is a data structure optimized for very quick data analysis.
+	2. The OLAP Cube consists of numeric facts called measures which are categorized by dimensions. OLAP Cube is also called the hypercube.
+	3. Usually, data operations and analysis are performed using the simple spreadsheet, where data values are arranged in row and column format. This is ideal for two-dimensional data. However, OLAP contains multidimensional data, with data usually obtained from a different and unrelated source. Using a spreadsheet is not an optimal option. The cube can store and analyze multidimensional data in a logical and orderly manner.
+	
+How does it work?
+	A Data warehouse would extract information from multiple data sources and formats like text files, excel sheet, multimedia files, etc.
+	The extracted data is cleaned and transformed. Data is loaded into an OLAP server (or OLAP cube) where information is pre-calculated in advance for further analysis.	
+	
+Basic analytical operations of OLAP
+	Four types of analytical OLAP operations are:
+		1. Roll-up
+		2. Drill-down
+		3. Slice 
+		4. dice
+		
+	1) Roll-up:
+	Roll-up is also known as “consolidation” or “aggregation.” The Roll-up operation can be performed in 2 ways
+		1. Reducing dimensions
+		2. Climbing up concept hierarchy. Concept hierarchy is a system of grouping things based on their order or level.
+		
+	NOTE: In the roll-up process at least one or more dimensions need to be removed.
+
+	2) Drill-down:
+	In drill-down data is fragmented into smaller parts. It is the opposite of the rollup process. It can be done via
+		- Moving down the concept hierarchy
+		- Increasing a dimension
+
+	NOTE: In the roll-up process at least one or more dimensions need to be added.
+	
+	3) Slice:
+	Here, one dimension is selected, and a new sub-cube is created. achieved by cutting horizontally.
+	
+	4) Dice:
+	This operation is similar to a slice. The difference in dice is you select 2 or more dimensions that result in the creation of a sub-cube.
+	
+What is Data Mining?
+	More details - https://www.guru99.com/data-mining-tutorial.html
+	- Data Mining is a process of finding potentially useful patterns from huge data sets. It is a multi-disciplinary skill that uses machine learning, statistics, and AI to extract information to evaluate future events probability. The insights derived from Data Mining are used for marketing, fraud detection, scientific discovery, etc. 
+	- Data Mining is all about discovering hidden, unsuspected, and previously unknown yet valid relationships amongst the data. Data mining is also called Knowledge Discovery in Data (KDD), Knowledge extraction, data/pattern analysis, information harvesting, etc.
