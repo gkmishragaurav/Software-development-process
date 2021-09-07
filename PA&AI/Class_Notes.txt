@@ -146,3 +146,104 @@ What is Data Mining?
 	More details - https://www.guru99.com/data-mining-tutorial.html
 	- Data Mining is a process of finding potentially useful patterns from huge data sets. It is a multi-disciplinary skill that uses machine learning, statistics, and AI to extract information to evaluate future events probability. The insights derived from Data Mining are used for marketing, fraud detection, scientific discovery, etc. 
 	- Data Mining is all about discovering hidden, unsuspected, and previously unknown yet valid relationships amongst the data. Data mining is also called Knowledge Discovery in Data (KDD), Knowledge extraction, data/pattern analysis, information harvesting, etc.
+	
+Difference Between Data Mining and Statistics:
+
+	Data mining: Data mining is the method of analyzing expansive sums of data in an exertion to discover relationships, designs, and insights. These designs, concurring to Witten and Eibemust be “meaningful in that they lead to a few advantages, more often than not a financial advantage.” Data in data mining is additionally ordinarily quantitative particularly when we consider the exponential development in data delivered by social media later a long time, i.e. big-data.
+
+	Statistics: Statistics is the science of collecting, organizing, summarizing, and analyzing data to draw conclusions or reply questions. In expansion, measurements are around giving a degree of certainty in any conclusions. The practice or science of collecting and analyzing numerical information in huge amounts, particularly for the reason of gathering extents in entirety from those in a representative test.
+
+Data mining Examples:
+	Now in this Data Mining course, let’s learn about Data mining with examples:
+
+	Example 1:
+
+	Consider a marketing head of telecom service provides who wants to increase revenues of long distance services. For high ROI on his sales and marketing efforts customer profiling is important. He has a vast data pool of customer information like age, gender, income, credit history, etc. But its impossible to determine characteristics of people who prefer long distance calls with manual analysis. Using data mining techniques, he may uncover patterns between high long distance call users and their characteristics.
+
+	For example, he might learn that his best customers are married females between the age of 45 and 54 who make more than $80,000 per year. Marketing efforts can be targeted to such demographic.
+
+	Example 2:
+
+	A bank wants to search new ways to increase revenues from its credit card operations. They want to check whether usage would double if fees were halved.
+
+	Bank has multiple years of record on average credit card balances, payment amounts, credit limit usage, and other key parameters. They create a model to check the impact of the proposed new business policy. The data results show that cutting fees in half for a targetted customer base could increase revenues by $10 million.
+
+What is not data mining?
+	1. Expert systems(in artificial intelligence)
+		The expert system takes a decision on the experience of designed algorithms
+	2. Simple querying
+		The query takes a decision according to the given condition in SQL. For example, a database query “SELECT * FROM table” is just a database query and it displays information from the table but actually, this is not hidden information. So it is a simple query and not data mining.
+
+Knowledge Discovery (KDD) Process(Steps In The Data Mining Process):
+	The data mining process is divided into two parts i.e. Data Preprocessing and Data Mining. Data Preprocessing involves data cleaning, data integration, data reduction, and data transformation. The data mining part performs data mining, pattern evaluation and knowledge representation of data.
+
+Data Mining Tasks:
+	Data mining deals with the kind of patterns that can be mined. On the basis of the kind of data to be mined, there are two categories of functions involved in Data Mining −
+
+	1. Descriptive - focuses on finding human-interpretable patterns describing the data.
+	2. Prediction -  involves using some variables or fields in the database to predict unknown or future values of other variables of interest.
+	
+The goals of prediction and description are achieved by using the following primary data mining tasks:
+	- Classification is learning a function that maps (classifies) a data item into one of several predefined classes.
+	
+	- Regression is learning a function which maps a data item to a real-valued prediction variable.
+	
+	- Clustering is a common descriptive task where one seeks to identify a finite set of categories or clusters to describe the data.
+		Closely related to clustering is the task of probability density estimation which consists of techniques for estimating, from data, the joint multi-variate probability density function of all of the variables/fields in the database.
+	
+	- Deviation Detection focuses on discovering the most significant changes in the data from previously measured or normative values.
+	
+	- Sequential Pattern Discovery
+	
+	- Association Rule Discovery
+		Association rule mining finds interesting associations and relationships among large sets of data items. This rule shows how frequently a itemset occurs in a transaction. A typical example is Market Based Analysis.
+		
+		Market Based Analysis is one of the key techniques used by large relations to show associations between items.It allows retailers to identify relationships between the items that people buy together frequently.
+
+		Example:- Given a set of transactions, we can find rules that will predict the occurrence of an item based on the occurrences of other items in the transaction.
+		
+		TID	Items
+		1	Bread, Milk
+		2	Bread, Diaper, Beer, Eggs
+		3	Milk, Diaper, Beer, Coke
+		4	Bread, Milk, Diaper, Beer
+		5	Bread, Milk, Diaper, Coke
+		
+		Before we start defining the rule, let us first see the basic definitions.
+			Support Count(\sigma) – Frequency of occurrence of a itemset.
+			Frequent Itemset – An itemset whose support is greater than or equal to minsup threshold.
+			Association Rule – An implication expression of the form X -> Y, where X and Y are any 2 itemsets.
+
+		Rule Evaluation Metrics –
+			Support(s) –
+				The number of transactions that include items in the {X} and {Y} parts of the rule as a percentage of the total number of transaction.It is a measure of how frequently the collection of items occur together as a percentage of all transactions.
+				
+			Support = \sigma(X+Y) \div total –
+				It is interpreted as fraction of transactions that contain both X and Y.
+				
+			Confidence(c) –
+				It is the ratio of the no of transactions that includes all items in {B} as well as the no of transactions that includes all items in {A} to the no of transactions that includes all items in {A}.
+				
+			Conf(X=>Y) = Supp(X\cupY) \div Supp(X) –
+				It measures how often each item in Y appears in transactions that contains items in X also.
+				
+			From the above table, {Milk, Diaper}=>{Beer}
+			s  = \sigma({Milk, Diaper, Beer}) \div |T|
+			= 2/5
+			= 0.4
+			
+			c = \sigma(Milk, Diaper, Beer) \div \sigma(Milk, Diaper)
+			= 2/3
+			= 0.67
+			
+Association Rule Discovery: Application 
+	Let’s look at some areas where Association Rule Mining has helped quite a lot:
+	1. Market Basket Analysis:
+		This is the most typical example of association mining. Data is collected using barcode scanners in most supermarkets. This database, known as the “market basket” database, consists of a large number of records on past transactions. A single record lists all the items bought by a customer in one sale. Knowing which groups are inclined towards which set of items gives these shops the freedom to adjust the store layout and the store catalog to place the optimally concerning one another.
+		
+	2. Supermarket shelf management.
+		– Goal: To identify items that are bought together by sufficiently many customers.
+		– Approach: Process the point-of-sale data collected with barcode scanners to find dependencies among items.
+		– A classic rule --
+			◆If a customer buys diaper and milk, then he is very likely to buy beer.
+			◆So, don’t be surprised if you find six-packs stacked next to diapers!
