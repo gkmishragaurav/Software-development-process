@@ -27,14 +27,44 @@ Assets:
 		-  For example, a company will sometimes report a building as an asset on the balance sheet, when in fact the company has not actually purchased the asset, but only leased it under a long-term non-cancelable lease. If the lease gives the company control of the building for most of the building's economic life, then the leased building is reported as an asset.
 		-  Some assets are reported at their historical cost, like buildings and equipment and land. It is tough in most cases to get at these assets' current market value, so we go with a measure that everyone can agree on. What was the original cost? You mean that the amounts listed on a balance sheet are not all comparable? Some are historical, some are current market value, and some are an estimate of future value? That's exactly what I mean. Amounts on the balance sheet are like fruit in a fruit basket. There are apples and there are oranges. But knowing that fact, there are different valuation measures, puts you ahead of many users of financial information. 
 		
-	Liabilities:
-		- Liabilities are obligations that are satisfied either through payment or by providing services to someone else. 
-		- Liabilities are formally defined as probable future sacrifices of economic benefits arising from present obligations of a particular entity to transfer assets or provide services to other entities in the future as a result of past transactions or events.
-		- Most liabilities involve an obligation to transfer assets in the future.
-		- past transactions or events. Assets and liabilities arise from transactions or events that have already happened. Consider a company that expects to pay $80,000 next year for the electricity that will use throughout the next year. If the world ends on December 31st of this year, does the company have to pay the $80,000? No, because the transaction, the actual use of the electricity, will not occur until next year. Thus, as of December 31st this year, the company would not report the $80,000 as a liability. There would be a liability however, if electricity had already been used but not yet paid for. 
-		-  Liabilities are sources of the funds a company has used to acquire its assets. For example, businesses frequently buy goods on credit rather than paying cash, thus creating the liability called "accounts payable."
-		- businesses often borrow money from banks and other lenders for various purposes such as purchasing land, new machinery or equipment, or additional merchandise. Now loans may be short term, less than a year, or long term. And unlike accounts payable, they usually require the payment of interest to the lender.
-		- Now liabilities generally are grouped on the ballot sheet according to their due dates, with short term liabilities listed first.
+Liabilities:
+	- A liability (generally speaking) is something that is owed to somebody else.
+	- Liability can also mean a legal or regulatory risk or obligation.
+	- In accounting, companies book liabilities in opposition to assets.
+	- Current liabilities are a company's short-term financial obligations that are due within one year or a normal operating cycle (e.g. accounts payable).
+	- Long-term (non-current) liabilities are obligations listed on the balance sheet not due for more than a year.
+	
+	Types of Liabilities:
+		Current Liabilities:
+			Ideally, analysts want to see that a company can pay current liabilities, which are due within a year, with cash. Some examples of short-term liabilities include payroll expenses and accounts payable, which include money owed to vendors, monthly utilities, and similar expenses. Other examples include:
+				Wages Payable: The total amount of accrued income employees have earned but not yet received. 
+				Interest Payable: Companies, just like individuals, often use credit to purchase goods and services to finance over short time periods. This represents the interest on those short-term credit purchases to be paid.
+				Dividends Payable: For companies that have issued stock to investors and pay a dividend, this represents the amount owed to shareholders after the dividend was declared. This period is around two weeks, so this liability usually pops up four times per year, until the dividend is paid.
+				Unearned Revenues: This is a company's liability to deliver goods and/or services at a future date after being paid in advance. This amount will be reduced in the future with an offsetting entry once the product or service is delivered.
+				Liabilities of Discontinued Operations: This is a unique liability that most people glance over but should scrutinize more closely. Companies are required to account for the financial impact of an operation, division, or entity that is currently being held for sale or has been recently sold. This also includes the financial impact of a product line that is or has recently been shut down.
+				
+		Non-Current Liabilities:
+			Considering the name, it’s quite obvious that any liability that is not current falls under non-current liabilities expected to be paid in 12 months or more. Long-term debt, also known as bonds payable, is usually the largest liability and at the top of the list. 
+			Companies of all sizes finance part of their ongoing long-term operations by issuing bonds that are essentially loans from each party that purchases the bonds. This line item is in constant flux as bonds are issued, mature, or called back by the issuer.
+			Analysts want to see that long-term liabilities can be paid with assets derived from future earnings or financing transactions. Bonds and loans are not the only long-term liabilities companies incur. Items like rent, deferred taxes, payroll, and pension obligations can also be listed under long-term liabilities. 
+			
+	Liabilities vs. Assets:
+		Assets are the things a company owns—or things owed to the company—and they include tangible items such as buildings, machinery, and equipment as well as intangible items such as accounts receivable, interest owed, patents, or intellectual property.
+		
+		If a business subtracts its liabilities from its assets, the difference is its owner's or stockholders' equity. This relationship can be expressed as follows:
+
+		Assets−Liabilities=Owner’s Equity
+
+		However, in most cases, this accounting equation is commonly presented as such:
+
+		Assets=Liabilities+Equity	
+			
+	Liabilities vs. Expenses
+		An expense is the cost of operations that a company incurs to generate revenue. Unlike assets and liabilities, expenses are related to revenue, and both are listed on a company's income statement. In short, expenses are used to calculate net income. The equation to calculate net income is revenues minus expenses.
+
+		For example, if a company has more expenses than revenues for the past three years, it may signal weak financial stability because it has been losing money for those years.
+
+		Expenses and liabilities should not be confused with each other. One is listed on a company's balance sheet, and the other is listed on the company's income statement. Expenses are the costs of a company's operation, while liabilities are the obligations and debts a company owes. Expenses can be paid immediately with cash, or the payment could be delayed which would create a liability.	
 		- 
 		
 	Owners' equity:
