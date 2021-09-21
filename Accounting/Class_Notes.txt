@@ -87,3 +87,39 @@ Liabilities:
 			- describe different types of assets and liabilities and the measurement bases of each;
 			- describe the components of shareholders’ equity;
 			- calculate and interpret liquidity and solvency ratios
+			
+Corporate Finance:
+	- Includes any decisions made by a business that affect its finances
+	Three major decisions:
+		• Investments: Where should a firm invest its (scarce) resources?
+			- project analysis
+			- security analysis
+		• Financing: How should the firm raise (additional) resources?
+			- equity/debt/hybrids
+			- long/short term
+		• Dividend decision: What should the firm do with excess resources?
+			- reinvest in business
+			- distribute as dividends/return on capital 
+			
+	Q. Why do we need an objective function?
+	Ans: How do you pick amongst alternatives? 
+		 if multiple, how do you weight objectives, or prioritize?
+		 
+	Q. What’s a good objective function?
+		- clear and unambiguous
+		- measurable, in a clear and timely manner
+		- should benefit firm’s long-term health and value
+		
+	Q. The real world – what can go wrong? 
+		Stockholders hire managers to make decisions for them (separation of ownership and management), and borrow money from lenders who cannot monitor perfectly how the money is being used.
+		
+		Q. The real world conflicts 
+		Stockholders – Managers:
+		Assumption: Stockholders hire/fire managers and control their compensation, thereby exercising control and aligning interests.
+		Reality: stockholders’ control over managers is often diluted, hence managers would put their interests over stockholders’.
+		
+		Managers – Financial Markets
+		Assumption: Managers convey information to the markets in the truthful and timely manner, and the markets efficiently impound information into stock prices. 
+		Reality: Information may be delayed or misleading (can you trust accounting numbers?), markets make mistakes and over react. Managers can manipulate information; insiders can manipulate market prices. 
+		
+		- Traditional corporate finance theory breaks down when The interests/objectives of the decision-makers in the firm conflict with the interests of stockholders.
