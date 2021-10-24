@@ -37,11 +37,11 @@ Liabilities:
 	Types of Liabilities:
 		Current Liabilities:
 			Ideally, analysts want to see that a company can pay current liabilities, which are due within a year, with cash. Some examples of short-term liabilities include payroll expenses and accounts payable, which include money owed to vendors, monthly utilities, and similar expenses. Other examples include:
-				Wages Payable: The total amount of accrued income employees have earned but not yet received. 
-				Interest Payable: Companies, just like individuals, often use credit to purchase goods and services to finance over short time periods. This represents the interest on those short-term credit purchases to be paid.
-				Dividends Payable: For companies that have issued stock to investors and pay a dividend, this represents the amount owed to shareholders after the dividend was declared. This period is around two weeks, so this liability usually pops up four times per year, until the dividend is paid.
-				Unearned Revenues: This is a company's liability to deliver goods and/or services at a future date after being paid in advance. This amount will be reduced in the future with an offsetting entry once the product or service is delivered.
-				Liabilities of Discontinued Operations: This is a unique liability that most people glance over but should scrutinize more closely. Companies are required to account for the financial impact of an operation, division, or entity that is currently being held for sale or has been recently sold. This also includes the financial impact of a product line that is or has recently been shut down.
+			Wages Payable: The total amount of accrued income employees have earned but not yet received. 
+			Interest Payable: Companies, just like individuals, often use credit to purchase goods and services to finance over short time periods. This represents the interest on those short-term credit purchases to be paid.
+			Dividends Payable: For companies that have issued stock to investors and pay a dividend, this represents the amount owed to shareholders after the dividend was declared. This period is around two weeks, so this liability usually pops up four times per year, until the dividend is paid.
+			Unearned Revenues: This is a company's liability to deliver goods and/or services at a future date after being paid in advance. This amount will be reduced in the future with an offsetting entry once the product or service is delivered.
+			Liabilities of Discontinued Operations: This is a unique liability that most people glance over but should scrutinize more closely. Companies are required to account for the financial impact of an operation, division, or entity that is currently being held for sale or has been recently sold. This also includes the financial impact of a product line that is or has recently been shut down.
 				
 		Non-Current Liabilities:
 			Considering the name, it’s quite obvious that any liability that is not current falls under non-current liabilities expected to be paid in 12 months or more. Long-term debt, also known as bonds payable, is usually the largest liability and at the top of the list. 
@@ -76,7 +76,7 @@ Assets = Owners' equity + Liabilities
 -  Just as assets is comprised of a bunch of individual asset accounts, owners' equity is comprised of individual accounts as well. The two most common are paid-in capital and retained earnings.
 
 Revenue- Expenses = Net income
-	
+
 Balance sheet:
 	- The balance sheet is a listing of a company's assets, and its obligations, its liabilities. 
 	- The balance sheet is structured around a phenomenal thing called the Accounting Equation.  Assets equal liabilities plus equity.
@@ -87,7 +87,41 @@ Balance sheet:
 		- describe different types of assets and liabilities and the measurement bases of each;
 		- describe the components of shareholders’ equity;
 		- calculate and interpret liquidity and solvency ratios
-			
+
+Earnings management:
+	Accounting policy guidelines —— rulebook —— INDUS(India), GAP(US) —— Auditors will check if these policies are followed.
+
+- As all players are different, same rules can not apply on everyone.
+- We have to define rules in such a way that one can have many interpretations. As businesses are different one set of rule can not be applied on diff players.
+- Earnings management is that one can say we are doing well in market. 
+- Managirial discretion is advised on subjective interpretation of accounting standards.
+
+Q. What is difference between asset and expense ?
+Ans - If a percived benefit from cost incurred is for more than one year its asset else its expense. 
+
+Cost incurred on existing asset:
+1. show it as expense 
+2. Add it as asset
+Decision rule — If cost incurred has changed the estimate useful life of asset add it to the balance sheet else income statement. capitalise on cost - B/S else income statement
+
+Earnings management @ flipkart:
+Traditional accounting:
+	selling price - 120
+	cost - 100
+	discount - 30
+	loss - 10 (on revenue)
+
+What they are actually doing?
+	revenue - 120 
+	expense - 100 
+	profit - 20 
+	discount(asset) - 30 (capitalised customer accusation cost)
+
+Q. Why managers get into Earnings management?
+- To send Positive messege to market
+- My own incentives are alligned to reported Profit.
+- Firm get into EM before a major corporate event(IPO)—— in long run, EM is always bad. 
+
 Corporate Finance:
 	- Includes any decisions made by a business that affect its finances
 	Three major decisions:
@@ -113,13 +147,13 @@ Corporate Finance:
 	Q. The real world – what can go wrong? 
 		Stockholders hire managers to make decisions for them (separation of ownership and management), and borrow money from lenders who cannot monitor perfectly how the money is being used.
 		
-		Q. The real world conflicts 
-		Stockholders – Managers:
-		Assumption: Stockholders hire/fire managers and control their compensation, thereby exercising control and aligning interests.
-		Reality: stockholders’ control over managers is often diluted, hence managers would put their interests over stockholders’.
-		
-		Managers – Financial Markets
-		Assumption: Managers convey information to the markets in the truthful and timely manner, and the markets efficiently impound information into stock prices. 
-		Reality: Information may be delayed or misleading (can you trust accounting numbers?), markets make mistakes and over react. Managers can manipulate information; insiders can manipulate market prices. 
-		
-		- Traditional corporate finance theory breaks down when The interests/objectives of the decision-makers in the firm conflict with the interests of stockholders.
+	Q. The real world conflicts 
+	Stockholders – Managers:
+	Assumption: Stockholders hire/fire managers and control their compensation, thereby exercising control and aligning interests.
+	Reality: stockholders’ control over managers is often diluted, hence managers would put their interests over stockholders’.
+
+	Managers – Financial Markets
+	Assumption: Managers convey information to the markets in the truthful and timely manner, and the markets efficiently impound information into stock prices. 
+	Reality: Information may be delayed or misleading (can you trust accounting numbers?), markets make mistakes and over react. Managers can manipulate information; insiders can manipulate market prices. 
+
+	- Traditional corporate finance theory breaks down when The interests/objectives of the decision-makers in the firm conflict with the interests of stockholders.
