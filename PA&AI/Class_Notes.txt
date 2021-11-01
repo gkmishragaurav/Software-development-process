@@ -364,6 +364,7 @@ Difference between the application-oriented and subject-oriented organization of
 Q. What is a data lake?
 A data lake is a storage repository that holds a vast amount of raw data in its native format until it is needed for analytics applications. While a traditional data warehouse stores data in hierarchical dimensions and tables, a data lake uses a flat architecture to store data, primarily in files or object storage. That gives users more flexibility on data management, storage and usage. Data lakes are often associated with Hadoop systems. In deployments based on the distributed processing framework, data is loaded into the Hadoop Distributed File System (HDFS) and resides on the different computer nodes in a Hadoop cluster.
 What makes data lake successful? ——— Right platform + Right Data + Right interface
+If interested in how to make a data lake? ------- https://github.com/gkmishragaurav/IIML_Notes/blob/main/PA%26AI/Data%20lake.pdf
 
 SEMMA Model:
 SEMMA is the sequential methods to build machine learning models incorporated in ‘SAS Enterprise Miner’
@@ -415,6 +416,8 @@ Let say one want to make a data team, what should be the approach and mindset --
 
 Data Analytics Lifecycle :
 The Data analytic lifecycle is designed for Big Data problems and data science projects. The cycle is iterative to represent real project. To address the distinct requirements for performing analysis on Big Data, step – by – step methodology is needed to organize the activities and tasks involved with acquiring, processing, analyzing, and repurposing data.
+
+Case study on data analytics lifecycle --- https://github.com/gkmishragaurav/IIML_Notes/blob/main/PA%26AI/Data%20Analytics%20Lifecycle.pdf
 
 Phase 1: Discovery –
 •	The data science team learn and investigate the problem.
