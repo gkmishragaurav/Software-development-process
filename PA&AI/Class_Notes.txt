@@ -247,7 +247,8 @@ Association Rule Discovery: Application
 		– A classic rule --
 			◆If a customer buys diaper and milk, then he is very likely to buy beer.
 			◆So, don’t be surprised if you find six-packs stacked next to diapers!
----------------------------------------------------------------------------------------------------------------------------
+			
+----------------------------------------------------Dr. Pradeep Kumar Class-1-----------------------------------------------------------------------
 What is Machine Learning ?
 Machine learning is programming computers to optimize a performance criterion using example data or past experience.
 	•	Optimize a performance criterion using example data or past experience.
@@ -356,32 +357,52 @@ Key roles in successful analytics project
 Data Analytics Lifecycle :
 The Data analytic lifecycle is designed for Big Data problems and data science projects. The cycle is iterative to represent real project. To address the distinct requirements for performing analysis on Big Data, step – by – step methodology is needed to organize the activities and tasks involved with acquiring, processing, analyzing, and repurposing data.
 
-	Phase 1: Discovery –
-	•	The data science team learn and investigate the problem.
-	•	Develop context and understanding.
-	•	Come to know about data sources needed and available for the project.
-	•	The team formulates initial hypothesis that can be later tested with data.
-	Phase 2: Data Preparation –
-	•	Steps to explore, preprocess, and condition data prior to modeling and analysis.
-	•	It requires the presence of an analytic sandbox, the team execute, load, and transform, to get data into the sandbox.
-	•	Data preparation tasks are likely to be performed multiple times and not in predefined order.
-	•	Several tools commonly used for this phase are – Hadoop, Alpine Miner, Open Refine, etc.
-	Phase 3: Model Planning –
-	•	Team explores data to learn about relationships between variables and subsequently, selects key variables and the most suitable models.
-	•	In this phase, data science team develop data sets for training, testing, and production purposes.
-	•	Team builds and executes models based on the work done in the model planning phase.
-	•	Several tools commonly used for this phase are – Matlab, STASTICA.
-	Phase 4: Model Building –
-	•	Team develops datasets for testing, training, and production purposes.
-	•	Team also considers whether its existing tools will suffice for running the models or if they need more robust environment for executing models.
-	•	Free or open-source tools – Rand PL/R, Octave, WEKA.
-	•	Commercial tools – Matlab , STASTICA.
-	Phase 5: Communication Results –
-	•	After executing model team need to compare outcomes of modeling to criteria established for success and failure.
-	•	Team considers how best to articulate findings and outcomes to various team members and stakeholders, taking into account warning, assumptions.
-	•	Team should identify key findings, quantify business value, and develop narrative to summarize and convey findings to stakeholders.
-	Phase 6: Operationalize –
-	•	The team communicates benefits of project more broadly and sets up pilot project to deploy work in controlled way before broadening the work to full enterprise of users.
-	•	This approach enables team to learn about performance and related constraints of the model in production environment on small scale  , and make adjustments before full deployment.
-	•	The team delivers final reports, briefings, codes.
-	•	Free or open source tools – Octave, WEKA, SQL, MADlib.
+Phase 1: Discovery –
+•	The data science team learn and investigate the problem.
+•	Develop context and understanding.
+•	Come to know about data sources needed and available for the project.
+•	The team formulates initial hypothesis that can be later tested with data.
+
+Phase 2: Data Preparation –
+•	Steps to explore, preprocess, and condition data prior to modeling and analysis.
+•	It requires the presence of an analytic sandbox, the team execute, load, and transform, to get data into the sandbox.
+•	Data preparation tasks are likely to be performed multiple times and not in predefined order.
+•	Several tools commonly used for this phase are – Hadoop, Alpine Miner, Open Refine, etc.
+
+Phase 3: Model Planning –
+•	Team explores data to learn about relationships between variables and subsequently, selects key variables and the most suitable models.
+•	In this phase, data science team develop data sets for training, testing, and production purposes.
+•	Team builds and executes models based on the work done in the model planning phase.
+•	Several tools commonly used for this phase are – Matlab, STASTICA.
+
+Phase 4: Model Building –
+•	Team develops datasets for testing, training, and production purposes.
+•	Team also considers whether its existing tools will suffice for running the models or if they need more robust environment for executing models.
+•	Free or open-source tools – Rand PL/R, Octave, WEKA.
+•	Commercial tools – Matlab , STASTICA.
+
+Phase 5: Communication Results –
+•	After executing model team need to compare outcomes of modeling to criteria established for success and failure.
+•	Team considers how best to articulate findings and outcomes to various team members and stakeholders, taking into account warning, assumptions.
+•	Team should identify key findings, quantify business value, and develop narrative to summarize and convey findings to stakeholders.
+
+Phase 6: Operationalize –
+•	The team communicates benefits of project more broadly and sets up pilot project to deploy work in controlled way before broadening the work to full enterprise of users.
+•	This approach enables team to learn about performance and related constraints of the model in production environment on small scale  , and make adjustments before full deployment.
+•	The team delivers final reports, briefings, codes.
+•	Free or open source tools – Octave, WEKA, SQL, MADlib.
+
+Factors causing failures:
+• Improper planning
+• Inadequate project management
+• Company not ready for a data warehouse 
+• Insufficient staff training
+• Improper team management
+• No support from top management 
+
+ Application Areas
+• E‐Commerce and Market Research 
+• E‐Government and Politics
+• Science and Technology
+• Smart Health and wellbeing
+• Security and Public Safety
