@@ -30,6 +30,7 @@ automation vs autonomous:
 	Autonomous - 4.0
 	
 Q. How to do data analytics - By gathering data --- which should be based on market study
+How Facebook uses Data Science? ------- https://data-flair.training/blogs/data-science-at-facebook/
 
 Read case study - 
 	CDMA + relience 
@@ -261,7 +262,60 @@ Learning is used when:
 	• Humans are unable to explain their expertise (speech recognition) 
 	• Solution changes in time (routing on a computer network)
 	• Solution needs to be adapted to particular cases (user biometrics)
+--------------------------------------- few case studies of ML, how it bring some changes to organisation -------------------
+1. Machine Learning Case Study on Dell:
+	The multinational leader in technology, Dell, empowers people and communities from across the globe with superior software and hardware. Since data is a core part of Dell’s hard drive, their marketing team needed a data-driven solution that supercharges response rates and displays why certain words and phrases outperform others.
 
+	Dell partnered with Persado, the world’s leading technology in AI and ML generated marketing creative, to harness the power of words in their email channel and garner data-driven analytics for each of their key audiences.
+
+	As a result of this partnership, Dell noticed a 50% average increase in CTR and a 46% average increase in responses from customers. It also generated a 22% average increase in page visits and a 77% average increase in add-to-carts.
+
+	Excited by their success and learnings with email, Dell was eager to elevate their entire marketing platform with Persado. Dell now uses machine learning to improve the marketing copy of their promotional and lifecycle emails, Facebook ads, display banners, direct mail, and even radio content.
+	
+2. Machine Learning Case Study on Sky:
+	Sky UK transforms customer experiences with the help of machine learning and artificial intelligence through Adobe Sensei.
+
+	“We have 22.5 million very diverse customers. Even attempting to divide people by their favorite television genre can result in pretty broad segments.” said the Head of Digital Decisioning and Analytics, Sky UK.
+
+	This will:
+		• Create hyper-focused segments to engage customers.
+		• Use machine learning to deliver actionable intelligence.
+		• Improve relationships with customers.
+		• Apply AI learnings across channels to understand what matters to customers.
+		• The company was able to make sense of its large volumes of customer information with the help of machine learning frameworks to recommend them with products and services that resonated the most with each customer.
+
+	“People think of machine learning as a tool for delivering experiences that are strictly defined and very robotic, but it’s actually the opposite. With Adobe Sensei, we’re drawing a line that connects customer intelligence and personalized experiences that are valuable and appropriate” says McLaughlin.
+	
+3. Machine Learning Case Study on Trendyol:
+Trendyol which is a leading e-commerce company based in Turkey faced threat from global competitors like Adidas and ASOS, particularly for sportswear.
+
+To help gain customer loyalty and enhance its emailing system, it partnered with vendor Liveclicker, which specializes in real-time personalization.
+
+Trendyol used machine learning and artificial intelligence to create several highly personalized marketing campaigns. It also helped to distinguish which messages would be most relevant to which customers. It also created an offer for a football jersey imposing the recipient’s name on the back to ramp up personalization.
+
+By creatively using one-to-one personalization, the retailer’s open rates, click-through rates, conversions, and sales reached all-time highs. It generated a 30% increase in click-through rates for Trendyol, a 62% growth in response rates, and an impressive 130% increase in conversion rates.
+
+It has now also employed strong marketing functions like social media utilization, mobile app, SEO blogs, celebrity endorsement, etc to reach its customer base.
+
+4. Machine Learning Case Study on Harley Davidson:
+The place we are in today is where it is difficult to break through traditional marketing. For a business like – Harley Davidson NYC, Albert (an artificial intelligence-powered robot) has a lot of appeal. Powered by machine learning and artificial intelligence, robots are writing news stories, working in hotels, managing traffic, and even running McDonald’s.
+
+Albert can be applied to various marketing channels including social media and email. The software predicts which consumers are most likely to convert and adjusts personal creative copies on its own.
+
+Harley Davidson is the only brand to make use of Albert. The company analyzed customer data to determine the behavior of previous customers whose actions were positive in terms of purchasing and spending more than the average amount of time on browsing through the website. With this information, Albert created segments of customers and scaled up the test campaigns accordingly.
+
+Results show that Harley Davidson increased its sales by 40% with the use of Albert. The brand also had a 2,930% increase in leads, with 50% of those from high converting ‘lookalikes’ identified by artificial intelligence and machine learning.
+
+5. Machine Learning Case Study on Yelp:
+While Yelp might not seem to be a tech company at first glance, it is taking advantage of machine learning to improve users’ experience.
+
+Yelp’s machine learning algorithms help the company’s human staff to collect, categorize, and label images more efficiently. Since images are almost as vital to Yelp as user reviews themselves, it is always trying to improve how it handles image processing. Through this, the company is serving millions of its users now.
+
+For an entire generation today, taking photos of their food has become second nature and thanks to these people because of whom Yelp has such a huge database of photos. Its software uses techniques for analysis of the image to identify color, texture, and shape. It means that it can recognize the presence of say, pizzas, or whether a restaurant has outdoor seating.
+
+As a result, the company is now able to predict attributes like ‘good for kids’ and ‘classy ambiance’ with more than 80% accuracy. It is also planning to use this information to auto-caption images and improve search recommendations in the future.
+	
+---------------------------------------------------------------------------------------------------------------------------------
 
 Types of Learning 
 • Supervised Learning
@@ -283,29 +337,29 @@ Difference b/w Analytics and Statistics
 Difference between the application-oriented and subject-oriented organization of data.
 	• Subject-oriented programming is an object-oriented approach in which different subsystems known as subjects are divided to create new subjects based on the composition expression. 
 
-Lets Break this down:
-	How do you make software that allows a number of people to work together on the same group of things? Think of air traffic control, logistics planning, multi user games, , or even software development itself. In each of these examples, there is both a group of people and a set of the things they're working on, and what we really want to do is create a little universe in which they can all exist and interact with each other in real time. This little universe, of course, isn't new -- it's been accomplished in many ways in many different situations. But at some point we must ask ourselves if there is a more overarching way to solve this recurring problem. 
-The approach is a radical departure from the classical object-oriented approach, in which objects are defined based on their properties and methods. Subject-oriented programming is largely oriented toward dividing an object-oriented system into subjects. It thus provides a compositional view of the application development.
+	Lets Break this down:
+		How do you make software that allows a number of people to work together on the same group of things? Think of air traffic control, logistics planning, multi user games, , or even software development itself. In each of these examples, there is both a group of people and a set of the things they're working on, and what we really want to do is create a little universe in which they can all exist and interact with each other in real time. This little universe, of course, isn't new -- it's been accomplished in many ways in many different situations. But at some point we must ask ourselves if there is a more overarching way to solve this recurring problem. 
+	The approach is a radical departure from the classical object-oriented approach, in which objects are defined based on their properties and methods. Subject-oriented programming is largely oriented toward dividing an object-oriented system into subjects. It thus provides a compositional view of the application development.
 
-Example:
-A. "Object-oriented": to break menu into pieces, containing operations with objects:
-Code:
+	Example:
+	A. "Object-oriented": to break menu into pieces, containing operations with objects:
+	Code:
+		.	--------------------------------- 
+		.	   RESUMES  |   VACANCIES   | ... 
+		.	 search add | search    add | ... 
+		.	 all     my | all        my | ... 
 	.	--------------------------------- 
-	.	   RESUMES  |   VACANCIES   | ... 
-	.	 search add | search    add | ... 
-	.	 all     my | all        my | ... 
-	.	--------------------------------- 
-	
-B. "Subject-oriented": to break menu into pieces by type of site's visitor:
-Code:
-	.	--------------------------------- 
-	.	  JOB-SEEKERS    |  EMPLOYERS 
-	.	 All vacancies   | All resumes 
-	.	 Searh vacancies | Search resumes 
-	.	 Add resume      | Add vacancy 
-	.	 My resumes      | My vacancies 
-	.	  ...            |    ... 
-	.	--------------------------------- 
+
+	B. "Subject-oriented": to break menu into pieces by type of site's visitor:
+	Code:
+		.	--------------------------------- 
+		.	  JOB-SEEKERS    |  EMPLOYERS 
+		.	 All vacancies   | All resumes 
+		.	 Searh vacancies | Search resumes 
+		.	 Add resume      | Add vacancy 
+		.	 My resumes      | My vacancies 
+		.	  ...            |    ... 
+		.	--------------------------------- 
 
 Q. What is a data lake?
 A data lake is a storage repository that holds a vast amount of raw data in its native format until it is needed for analytics applications. While a traditional data warehouse stores data in hierarchical dimensions and tables, a data lake uses a flat architecture to store data, primarily in files or object storage. That gives users more flexibility on data management, storage and usage. Data lakes are often associated with Hadoop systems. In deployments based on the distributed processing framework, data is loaded into the Hadoop Distributed File System (HDFS) and resides on the different computer nodes in a Hadoop cluster.
@@ -353,6 +407,7 @@ Key roles in successful analytics project
 	• Database Administrator ‐‐ Creates DB Environment 
 	• Data engineer ‐‐ provides technical skills, assists data management and extraction, supports analytical activitie
 	• Data Scientist ‐‐ Provides analytic techniques and modeling.
+Let say one want to make a data team, what should be the approach and mindset ---- https://towardsdatascience.com/how-to-choose-the-right-structure-for-your-data-team-be6c1b66a067
 
 Data Analytics Lifecycle :
 The Data analytic lifecycle is designed for Big Data problems and data science projects. The cycle is iterative to represent real project. To address the distinct requirements for performing analysis on Big Data, step – by – step methodology is needed to organize the activities and tasks involved with acquiring, processing, analyzing, and repurposing data.
