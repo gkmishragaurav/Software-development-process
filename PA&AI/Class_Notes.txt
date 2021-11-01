@@ -373,6 +373,8 @@ Modify — In this step, lessons learned in the exploration phase from the data 
 Model — With the variables refined and data cleaned, the modeling step applies a variety of data mining techniques in order to produce a projected model of how this data achieves the final, desired outcome of the process.
 Assess — In this final SEMMA stage, the model is evaluated for how useful and reliable it is for the studied topic. The data can now be tested and used to estimate the efficacy of its performance.
 
+Case study on SEMMA model and k-mean clustering ------ https://github.com/gkmishragaurav/IIML_Notes/blob/main/PA%26AI/socsci-10-00004-1.pdf
+
 CRISP-DM (CRoss‐Industry Standard Process for Data Mining) — is a process model with six phases that naturally describes the data science life cycle. It’s like a set of guardrails to help you plan, organize, and implement your data science (or machine learning) project.
 For more detail reading — https://www.datascience-pm.com/crisp-dm-2/
 	1.	Business understanding – What does the business need?
