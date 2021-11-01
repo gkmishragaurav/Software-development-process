@@ -549,3 +549,18 @@ Example applications
 ◦ Customer segmentation in CRM
 ◦ Image compression: Color quantization
 ◦ Bioinformatics: Learning motifs
+
+What is Clustering Analysis?
+Ans: Clustering or cluster analysis is a machine learning technique, which groups the unlabelled dataset. It can be defined as "A way of grouping the data points into different clusters, consisting of similar data points. The objects with the possible similarities remain in a group that has less or no similarities with another group." It does it by finding some similar patterns in the unlabelled dataset such as shape, size, color, behavior, etc., and divides them as per the presence and absence of those similar patterns. After applying this clustering technique, each cluster or group is provided with a cluster-ID. ML system can use this id to simplify the processing of large and complex datasets.
+
+Example: Let's understand the clustering technique with the real-world example of Mall: When we visit any shopping mall, we can observe that the things with similar usage are grouped together. Such as the t-shirts are grouped in one section, and trousers are at other sections, similarly, at vegetable sections, apples, bananas, Mangoes, etc., are grouped in separate sections, so that we can easily find out the things. The clustering technique also works in the same way. Other examples of clustering are grouping documents according to the topic.
+
+This brings our attention to a very imp topic —— what is the diff b/w classification and clustering?
+Ans: Classification and clustering are two methods of pattern identification used in machine learning. Although both techniques have certain similarities, the difference lies in the fact that classification uses predefined classes in which objects are assigned, while clustering identifies similarities between objects, which it groups according to those characteristics in common and which differentiate them from other groups of objects. These groups are known as "clusters".
+
+Examples:
+Netflix:
+A well-known application of clustering algorithms are Netflix recommendation systems. Although the company is quite discreet with its algorithms, it is confirmed that there are about 2,000 clusters or communities that have common audiovisual tastes. Cluster 290 is the one that includes people who like the series "Lost", "Black Mirror" and "Groundhog Day". Netflix uses these clusters to refine its knowledge of the tastes of viewers and thus make better decisions in the creation of new original series.
+
+Fraud Detection:
+Classification is commonly used in the financial sector. In the era of online transactions where the use of cash has decreased markedly, it is necessary to determine whether movements made through cards are safe. Entities can classify transactions as correct or fraudulent using historical data on customer behavior to detect fraud very accurately.
