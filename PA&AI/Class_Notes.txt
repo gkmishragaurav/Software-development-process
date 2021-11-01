@@ -384,6 +384,8 @@ For more detail reading — https://www.datascience-pm.com/crisp-dm-2/
 	5.	Evaluation – Which model best meets the business objectives?
 	6.	Deployment – How do stakeholders access the results?
 	
+Case study on Crisp-DM modeling ----- https://github.com/gkmishragaurav/IIML_Notes/blob/main/PA%26AI/Case%20Study%20Using%20CRISP-DM%20.pdf
+	
 The analytical DELTA: is an acronym for the five success factors that you need to have a successful analytics program or project in your organization, so that you can compete in the market by data powered decision-making.
 DELTA covers the following five success factors:
 	•	D for accessible, high quality data
