@@ -318,3 +318,70 @@ Modify — In this step, lessons learned in the exploration phase from the data 
 Model — With the variables refined and data cleaned, the modeling step applies a variety of data mining techniques in order to produce a projected model of how this data achieves the final, desired outcome of the process.
 Assess — In this final SEMMA stage, the model is evaluated for how useful and reliable it is for the studied topic. The data can now be tested and used to estimate the efficacy of its performance.
 
+CRISP-DM (CRoss‐Industry Standard Process for Data Mining) — is a process model with six phases that naturally describes the data science life cycle. It’s like a set of guardrails to help you plan, organize, and implement your data science (or machine learning) project.
+For more detail reading — https://www.datascience-pm.com/crisp-dm-2/
+	1.	Business understanding – What does the business need?
+	2.	Data understanding – What data do we have / need? Is it clean?
+	3.	Data preparation – How do we organize the data for modeling?
+	4.	Modeling – What modeling techniques should we apply?
+	5.	Evaluation – Which model best meets the business objectives?
+	6.	Deployment – How do stakeholders access the results?
+	
+The analytical DELTA: is an acronym for the five success factors that you need to have a successful analytics program or project in your organization, so that you can compete in the market by data powered decision-making.
+DELTA covers the following five success factors:
+	•	D for accessible, high quality data
+	•	E for an enterprise orientation
+	•	L for analytical leadership
+	•	T for strategic targets
+	•	A for analysts
+	
+Five Stages of Analytics Maturity:
+Organizations mature their analytical capabilities as they develop in the seven areas. The maturity model, described in Competing on Analytics and developed in Analytics at Work, helps companies measure their growth across the DELTA elements. 
+
+	Stage 1: Analytically Impaired — These companies rely primarily on gut feel to make decisions, and they have no formal plans for becoming more analytical.
+	Stage 2: Localized Analytics. ——Analytics or reporting at these companies exist within silos. There is no means or structure for collaborating across organizational units or functions in the use of analytics. 
+	Stage 3: Analytical Aspirations. —These companies see the value of analytics, and intend to improve their capabilities for generating and using them. Thus far, however, they have made little progress in doing so.
+	Stage 4: Analytical Companies. — Companies in this category are good at multiple aspects of analytics. They are highly data-oriented, have analytical tools and make wide use of analytics with some coordination across the organization. However there remains a lack of commitment to fully compete on analytics or use them strategically.
+	Stage 5: Analytical Competitors. These companies use analytics strategically and pervasively across the entire enterprise. They view their analytical capabilities as a competitive weapon, and they already seen some competitive advantage result from analytics.
+
+Key roles in successful analytics project 
+	• Business user – Understands the domain Area 
+	• Project Sponsor ‐‐ Provides requirements 
+	• Project Manager ‐‐ Ensures Meeting Objectives 
+	• Business Intelligence analysts ‐‐ Provides business domain expertise based on deep understanding of the data
+	• Database Administrator ‐‐ Creates DB Environment 
+	• Data engineer ‐‐ provides technical skills, assists data management and extraction, supports analytical activitie
+	• Data Scientist ‐‐ Provides analytic techniques and modeling.
+
+Data Analytics Lifecycle :
+The Data analytic lifecycle is designed for Big Data problems and data science projects. The cycle is iterative to represent real project. To address the distinct requirements for performing analysis on Big Data, step – by – step methodology is needed to organize the activities and tasks involved with acquiring, processing, analyzing, and repurposing data.
+
+	Phase 1: Discovery –
+	•	The data science team learn and investigate the problem.
+	•	Develop context and understanding.
+	•	Come to know about data sources needed and available for the project.
+	•	The team formulates initial hypothesis that can be later tested with data.
+	Phase 2: Data Preparation –
+	•	Steps to explore, preprocess, and condition data prior to modeling and analysis.
+	•	It requires the presence of an analytic sandbox, the team execute, load, and transform, to get data into the sandbox.
+	•	Data preparation tasks are likely to be performed multiple times and not in predefined order.
+	•	Several tools commonly used for this phase are – Hadoop, Alpine Miner, Open Refine, etc.
+	Phase 3: Model Planning –
+	•	Team explores data to learn about relationships between variables and subsequently, selects key variables and the most suitable models.
+	•	In this phase, data science team develop data sets for training, testing, and production purposes.
+	•	Team builds and executes models based on the work done in the model planning phase.
+	•	Several tools commonly used for this phase are – Matlab, STASTICA.
+	Phase 4: Model Building –
+	•	Team develops datasets for testing, training, and production purposes.
+	•	Team also considers whether its existing tools will suffice for running the models or if they need more robust environment for executing models.
+	•	Free or open-source tools – Rand PL/R, Octave, WEKA.
+	•	Commercial tools – Matlab , STASTICA.
+	Phase 5: Communication Results –
+	•	After executing model team need to compare outcomes of modeling to criteria established for success and failure.
+	•	Team considers how best to articulate findings and outcomes to various team members and stakeholders, taking into account warning, assumptions.
+	•	Team should identify key findings, quantify business value, and develop narrative to summarize and convey findings to stakeholders.
+	Phase 6: Operationalize –
+	•	The team communicates benefits of project more broadly and sets up pilot project to deploy work in controlled way before broadening the work to full enterprise of users.
+	•	This approach enables team to learn about performance and related constraints of the model in production environment on small scale  , and make adjustments before full deployment.
+	•	The team delivers final reports, briefings, codes.
+	•	Free or open source tools – Octave, WEKA, SQL, MADlib.
