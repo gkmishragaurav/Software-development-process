@@ -122,6 +122,89 @@ Q. Why managers get into Earnings management?
 - My own incentives are alligned to reported Profit.
 - Firm get into EM before a major corporate event(IPO)—— in long run, EM is always bad. 
 
+---------------------------------------- topics to understand CFS -----------------------------
+
+Q. What Is Liquidity?
+	- Liquidity refers to the efficiency or ease with which an asset or security can be converted into ready cash without affecting its market price. The most liquid asset of all is cash itself, while tangible items, such as real estate, fine art, and collectibles, are less liquid.
+
+Q. Why Is Liquidity Important?
+	- If markets are not liquid, it becomes difficult to sell or convert assets or securities into cash. You may, for instance, own a very rare and valuable family heirloom appraised at $150,000. However, if there is not market (i.e. no buyers) for your object, then it is irrelevant since nobody will pay anywhere close to its appraised value—it is very illiquid. It may even require hiring an auction house to act as a broker and track down potentially interested parties, which will take time and incur costs.
+
+Q. What Are the Most Liquid Assets or Securities?
+	- Cash is the most liquid asset followed by cash equivalents, which are things like money markets, CDs, or time deposits. 
+	- Marketable securities such as stocks and bonds listed on exchanges are often very liquid and can be sold quickly via a broker. Gold coins and certain collectibles may also be readily sold for cash.
+
+Q. What Is Depreciation?
+	- The term depreciation refers to an accounting method used to allocate the cost of a tangible or physical asset over its useful life or life expectancy. 
+	- Depreciation represents how much of an asset's value has been used. Depreciating assets helps companies earn revenue from an asset while expensing a portion of its cost each year the asset is in use.
+	- for example, Assets such as machinery and equipment are expensive. Instead of realizing an asset's entire cost in year one, companies can use depreciation to spread out the cost and generate revenue from it. This is done through depreciation, which allows a company to write off an asset's value over a period of time, notably its useful life.
+
+Q. What Is Earnings Before Interest, Taxes, Depreciation, and Amortization (EBITDA)?
+	- EBITDA, or earnings before interest, taxes, depreciation, and amortization, is a measure of a company's overall financial performance and is used as an alternative to net income in some circumstances. 
+	- EBITDA, however, can be misleading because it strips out the cost of capital investments like property, plant, and equipment.
+	- This metric also excludes expenses associated with debt by adding back interest expense and taxes to earnings. Nonetheless, it is a more precise measure of corporate performance since it is able to show earnings before the influence of accounting and financial deductions.
+
+Q. What operating activities might include?
+	- Receipts from sales of goods and services
+	- Interest payments
+	- Income tax payments
+	- Payments made to suppliers of goods and services used in production
+	- Salary and wage payments to employees
+	- Rent payments
+	- Any other type of operating expenses
+
+
+-------------------------------------- topics to understand CFS ends ---------------------------
+
+Cash Flow Statements:
+	- The statement of cash flows, or the cash flow statement (CFS), is a financial statement that summarizes the amount of cash and cash equivalents entering and leaving a company.Like the income statement, it also measures the performance of a company over a period of time. However, it differs because it is not as easily manipulated by the timing of non-cash transactions. The CFS measures how well a company manages its cash position, meaning how well the company generates cash to pay its debt obligations and fund its operating expenses. 
+
+	- For example, the income statement includes depreciation expense, which does not have an actual cash outflow associated with it. It is simply an allocation of the cost of an asset over its useful life.
+
+Q. How the Cash Flow Statement Is Used?
+	- The CFS allows investors to understand how a company’s operations are running, where its money is coming from, and how money is being spent.
+	- The CFS is important since it helps investors determine whether a company is on solid financial footing.
+	- Creditors, on the other hand, can use the CFS to determine how much cash is available (referred to as liquidity) for the company to fund its operating expenses and pay down its debts.
+
+Structure of the Cash Flow Statement ---- The main components of the cash flow statement are:
+
+1. Cash from operating activities:
+	- The operating activities on the CFS include any sources and uses of cash from business activities. In other words, it reflects how much cash is generated from a company’s products or services.
+	- This will be constructed from balance sheet and PnL. Minimum req is to have 2yrs BS and 1 yr PnL.
+	- in flow -- cash received from customer, this cash can belong to any time (mind not revenue)
+	- out flow ---- cash paid to suppliers, service providers, employees, utilities, rent, insurance, tax --- basically actual cash paid.
+
+2. Cash from Investing Activities:
+	- Investing activities include any sources and uses of cash from a company’s investments. 
+	- A purchase or sale of an asset, loans made to vendors or received from customers, or any payments related to a merger or acquisition are included in this category
+	- Usually, changes in cash from investing are a “cash-out” item because cash is used to buy new equipment, buildings, or short-term assets such as marketable securities. However, when a company divests an asset, the transaction is considered “cash-in” for calculating cash from investing.
+	- out flow --- cash paid to buy PPE, investments
+	- in flow --- cash received on disposal of PPE, liquidation of assets.
+
+3. Cash from Financing Activities:
+	- Cash from financing activities includes the sources of cash from investors or banks, as well as the uses of cash paid to shareholders. Payment of dividends, payments for stock repurchases, and repayment of debt principal (loans) are included in this category.
+	- in flow --- cash received from loans, equity including IPO.
+	- Out flow --- cash paid in full payment of loans.
+
+Limitations of the Cash Flow Statement:
+	- Of course, not all cash flow statements always look healthy or exhibit a positive cash flow. However, negative cash flow should not automatically raise a red flag without further analysis. Poor cash flow is sometimes the result of a company’s decision to expand its business at a certain point in time, which would be a good thing for the future.
+	- Therefore, analyzing changes in cash flow from one period to the next gives the investor a better idea of how the company is performing, and whether a company may be on the brink of bankruptcy or success. The CFS should also be considered in unison with the other two financial statements.
+
+Let's try to make a CFS:
+	Step 1 : Add net income from B/S
+	Step 2 : What are additional cash received? add non operating expense, few examples:
+			Depreciation
+			anything coming from other income of BS
+			decrease in account receivables 
+			increase in account payables (liability side, my supplier gave me more time to pay)
+			increase in Tax payables 
+	Step 3 : subtraction from cash
+			increase in inventory 
+			decrease in payables
+			increase in receivables
+	Net income from operations = step 1 + step 2 - step 3
+--------------------------------------------------------------------------------------------------------------------
+
 Corporate Finance:
 	- Includes any decisions made by a business that affect its finances
 	Three major decisions:
