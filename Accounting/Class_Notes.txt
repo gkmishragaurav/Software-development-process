@@ -205,20 +205,23 @@ Let's try to make a CFS:
 	Net income from operations = step 1 + step 2 - step 3
 --------------------------------------------------------------------------------------------------------------------
 
-qualitative reporting ---- ESG reporting:
-1. Environment / SUSTANABLE reporting --- reducing waste, saving energy, within office sustainable efforts 
-2. CSR reporting --- what kind of social impact one is making. 
-3. Corporate governance --- 
-	composition of BOD 
-		how many independent directors
-		how many are executive directors
-		No of meeting and attendance 
-		remuneration
-		Board minutes/agenda, discussions
-		various committees --- auditors, risk management committee, remuneration committee
-		CEO/Chairman duality
-		give information of key investors and they have representation in board
-	auditors, 
+Qualitative reporting analysis:
+	- Qualitative analysis uses subjective judgment to analyze a company's value or prospects based on non-quantifiable information, such as management expertise, industry cycles, strength of research and development, and labor relations.
+	- Qualitative analysis, on the other hand, deals with intangible, inexact concerns that belong to the social and experiential realm rather than the mathematical one.
+ESG reporting --- All the ways by which Qualitative reporting is done.
+	1. Environment / SUSTANABLE reporting --- reducing waste, saving energy, within office sustainable efforts 
+	2. CSR reporting --- what kind of social impact one is making. 
+	3. Corporate governance --- 
+		composition of BOD 
+			how many independent directors
+			how many are executive directors
+			No of meeting and attendance 
+			remuneration
+			Board minutes/agenda, discussions
+			various committees --- auditors, risk management committee, remuneration committee
+			CEO/Chairman duality
+			give information of key investors and they have representation in board
+		auditors, 
 
 quantitative reporting --- mostly all numbers
 
