@@ -75,7 +75,7 @@ The Basic Accounting Equations:
 
 	Assets = Liabilities + Equity 
 
-	Revenues - Expenses = Net income
+	Revenues - Expenses = Profit/Loss
 
 	Assets = Liabilities + Equity + Revenue - Expense
 
