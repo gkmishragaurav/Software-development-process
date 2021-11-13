@@ -75,7 +75,7 @@ The Basic Accounting Equations:
 
 	Assets = Liabilities + Equity 
 
-	Revenues - Expenses = Profit/ Loss
+	Revenues - Expenses = Net income
 
 	Assets = Liabilities + Equity + Revenue - Expense
 
@@ -86,8 +86,6 @@ The Basic Accounting Equations:
 	Assets + Expenses + Drawings = Liabilities + Equity Capital + Revenues
 
 -  Just as assets is comprised of a bunch of individual asset accounts, owners' equity is comprised of individual accounts as well. The two most common are paid-in capital and retained earnings.
-
-Revenue- Expenses = Net income
 
 Balance sheet:
 	- The balance sheet is a listing of a company's assets, and its obligations, its liabilities. 
