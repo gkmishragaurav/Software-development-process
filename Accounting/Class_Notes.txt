@@ -205,6 +205,46 @@ Let's try to make a CFS:
 	Net income from operations = step 1 + step 2 - step 3
 --------------------------------------------------------------------------------------------------------------------
 
+qualitative reporting ---- ESG reporting:
+1. Environment / SUSTANABLE reporting --- reducing waste, saving energy, within office sustainable efforts 
+2. CSR reporting --- what kind of social impact one is making. 
+3. Corporate governance --- 
+	composition of BOD 
+		how many independent directors
+		how many are executive directors
+		No of meeting and attendance 
+		remuneration
+		Board minutes/agenda, discussions
+		various committees --- auditors, risk management committee, remuneration committee
+		CEO/Chairman duality
+		give information of key investors and they have representation in board
+	auditors, 
+
+quantitative reporting --- mostly all numbers
+
+BS, P&n, CF
+accounting policies
+measure financial ratios: --- ratio analysis
+	1. Liquidity
+		How comfortable a firm is placed to meet it's short term obligations.
+		current ratio = {current asset/current liability} = { (cash+ receivables + inventory)/(payables+expenses) }
+		if this ratio is high this is good for organization. But catch is if this is too high then one will suffer on liquidity.
+	2. solvency 
+		long term repayment obligation
+		debt, equity ratio or leverage ratio = {Total long term debt / Total equity}
+		This ratio should be as low as possible.
+	3. efficiency/turnover
+		how well one is managing it's assets 
+		1. fixed asset turnover ratio:
+					= { (sales*100) / fixed asset }
+			for every 1 rupee of fixed asset, what is the revenue one is generating.
+			9 out of 10 times, this ratio is wrong for projection of over utilization of assets.
+		2. Inventory turnover:
+
+	4. profitability 
+	5. market/valuation 
+--------------------------------------------------------------------------------------------------------------------
+
 Corporate Finance:
 	- Includes any decisions made by a business that affect its finances
 	Three major decisions:
