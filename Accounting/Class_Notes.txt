@@ -317,3 +317,18 @@ Corporate Finance:
 	Reality: Information may be delayed or misleading (can you trust accounting numbers?), markets make mistakes and over react. Managers can manipulate information; insiders can manipulate market prices. 
 
 	- Traditional corporate finance theory breaks down when The interests/objectives of the decision-makers in the firm conflict with the interests of stockholders.
+	
+Extra Notes:
+	Return of goods by a customer should be debited to --- Sales return account
+	Accounting principles are generally based upon: ---- Practicability
+	Owner’s equity --- this will fall under liability
+	Management Accounting provides invaluable services to management in performing --- All management function
+	The cash discount allowed to a debtor should be credited to --- Customer a/c
+	Accounting is the process of matching ----  Revenues & Costs
+	Of the following account types, which would be increased by a debit? --- Assets and expenses.
+	Prepaid expense is treated as --- Current asset
+	The prime function of accounting is to --- Classifying and recording business transaction
+	Rent paid to landlord should be credited to ---- cash
+	The primary objective of management accounting is --- Provide management complete and true information
+	All those to whom business owes money are: -- Creditors
+	Which group of ratios relates profits to sales and investment? --- profitibility
