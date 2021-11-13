@@ -225,24 +225,48 @@ quantitative reporting --- mostly all numbers
 BS, P&n, CF
 accounting policies
 measure financial ratios: --- ratio analysis
-	1. Liquidity
+	1. Liquidity:
 		How comfortable a firm is placed to meet it's short term obligations.
 		current ratio = {current asset/current liability} = { (cash+ receivables + inventory)/(payables+expenses) }
 		if this ratio is high this is good for organization. But catch is if this is too high then one will suffer on liquidity.
-	2. solvency 
+
+	2. Solvency:
 		long term repayment obligation
 		debt, equity ratio or leverage ratio = {Total long term debt / Total equity}
 		This ratio should be as low as possible.
-	3. efficiency/turnover
+
+	3. Efficiency/turnover:
 		how well one is managing it's assets 
 		1. fixed asset turnover ratio:
 					= { (sales*100) / fixed asset }
 			for every 1 rupee of fixed asset, what is the revenue one is generating.
 			9 out of 10 times, this ratio is wrong for projection of over utilization of assets.
 		2. Inventory turnover:
+			How fast your inventory is moving/sold.
+			understand it on lines of BMW vs Maruti inventory turnover.
+		3. Receivables turnover:
+			How fast you are collecting it from customers. 
 
-	4. profitability 
-	5. market/valuation 
+	4. Profitability:
+		PAT*100/sales = NPM - net profit margin
+		PAT*100/Total assets = ROA --- return on assets
+		PAT*100/Total Equity = ROE ---- return on equity
+		PAT/(total equity+total debt - current liability) = ROCE/ROI --- return on income
+
+		Dupont equation:
+			This eq. combines turnover and profitability.
+			PAT/Total assets = (PAT/Total revenue)[Margin] X (Total revenue/ Total assets)[Turnover]
+			profitability comes from either a Margin or turnover.
+			Think on the lines that BMW is a Margin business while Maruti is a turnover business.
+
+	5. Market/valuation:
+		price to book value = { current stock market price / book value of equity }
+		book value of equity(BVE) = { value of assets - value of liability }
+		if we divide BVE with number of share we will get book value per share.
+
+		(lets call it n) --- compare book value per share to current stock market price per share ----- this will reflect what is your market vs books.
+		the value of n >= 1 is always good. 
+		Can the value of n be less than 1? ---- 
 --------------------------------------------------------------------------------------------------------------------
 
 Corporate Finance:
