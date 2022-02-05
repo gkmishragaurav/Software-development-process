@@ -163,7 +163,15 @@ Metrics used in Sprint
  	Business value delivered—measures the value of the User Stories delivered from the business perspective.
 	Number of stories—refers to how many User Stories are delivered as part of a single Sprint. It can be expressed in terms of simple count or weighted count
 
+Advantages of SCRUM
+	✓Adaptability - Empirical process control and iterative delivery make projects adaptable and open to incorporating change.
+	✓Transparency - All information radiators like a Scrumboard and Sprint Burndown Chart are shared, leading to an open work environment. 
+	✓Continuous Feedback - Continuous feedback is provided through the Conduct Daily Standup, and Demonstrate and Validate Sprint processes.
+	✓Continuous Improvement - The deliverables are improved progressively Sprint by Sprint, through the Groom Prioritized Product Backlog process.
+	✓Continuous Delivery of Value - Iterative processes enable the continuous delivery of value through the Ship Deliverables process as frequently as the customer requires
 
+
+It’s a rule of Scrum that a Sprint should never be longer than one month. Generally speaking, the Sprint length should be approximately three times as long as it takes to Swarm on an average medium-size Story and get it Done.
 
 
 
