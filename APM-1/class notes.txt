@@ -1,0 +1,182 @@
+APM
+
+Application life cycle management (ALM):
+	- Application lifecycle management (ALM) is the people, tools, and processes that manage the life cycle of an application from conception to end of life. 
+	- ALM is made up of several disciplines that have often been separated under legacy development processes, such as a waterfall development method, including project management, requirements management, software development, testing and quality assurance, deployment, and maintenance. 
+	- Adopting ALM also leads to continuous delivery of software and updates with frequent releases, sometimes as often as several per day, as opposed to new releases only coming every few months or once a year.
+	- Application lifecycle management provides a framework for software development while also helping you to manage your software over time.
+
+Key areas of ALM
+	1. Governance - includes requirements management, resource management, data security, user access, change tracking, review, audit, deployment control, and rollback.
+
+	2. Application development - includes identifying current problems, and planning, design, building, and testing the application. This area includes traditional developer and app maker roles.
+
+	3. Maintenance -  includes deployment of the app and maintenance of optional and dependent technologies.
+
+ALM stages
+	- ALM helps give visibility to the development process. Because the process is integrated, you can see what progress has been made, which steps still need to be completed, how long things are taking, which tests have been completed, and more.
+
+	business needs ---> Portfolio rationalization ---> SDLC ---> Operation ---> Business value
+
+
+SDLC View:
+The Software Development Life Cycle (SDLC) refers to a methodology with clearly defined processes for creating high-quality software. In detail, the SDLC methodology focuses on the following phases of software development:
+
+analysis -> management decision -> initial requirement -> initial architecture -> Development -> delivery
+
+	- Processes that span these activities - Manages the relationships between development Project artifacts used or produced by these activities (in other words, provides traceability)
+	- These artifacts include UI mock-ups done during requirements gathering, source code, executable code, build scripts, test plans, and so on.
+
+ITSM:
+IT service management -- often referred to as ITSM -- is simply how IT teams manage the end-to-end delivery of IT services to customers. This includes all the processes and activities to design, create, deliver, and support IT services. The core concept of ITSM is the belief that IT should be delivered as a service.
+
+ITSM processes:
+	Service Request Management:
+		is a repeatable procedure for handling the wide variety of customer service requests, like requests for access to applications, software enhancements, and hardware updates. 
+	Knowledge Management:
+		is the process of creating, sharing, using, and managing the knowledge and information of an organization.
+	IT/service Asset Management:
+		is the process of ensuring an organization’s assets are accounted for, deployed, maintained, upgraded, and disposed of when the time comes. 
+	Incident Management:
+		is the process to respond to an unplanned event or service interruption and restore the service to its operational state.
+	Problem Management:
+		is the process of identifying and managing the causes of incidents on an IT service.
+	Change Management:
+		ensures standard procedures are used for efficient and prompt handling of all changes to IT infrastructure, whether it’s rolling out new services, managing existing ones, or resolving problems in the code.
+	service catalog:
+		is the single source of accurate information on all IT services offered by an organization's IT department.
+	service portfolio management:
+		to manage the service portfolio. This ITIL process ensures that the service provider has the right mix of services to meet required business outcomes at an appropriate level of investment.
+	project management:
+		When a business has to address a completely new task it is usually necessary that specialists from very different areas and corporate sectors work together. Here the definition of a project would make sense: It ensures a higher degree of flexibility as it goes beyond day-to-day operations. Project work provides the benefit of finding common solutions rapidly and effectively.
+
+Application portfolio management (APM):
+	- Application as a product managed as part of a portfolio of products. APM is a subset of project portfolio management (PPM)
+	- Product life cycle starts with a business plan—the product is an application or system that is one part of the business plan
+
+Pillars of ALM:
+	1. traceability
+	2. Automation of high level process
+	3. Visibility
+
+Project vs Program:
+	Project:
+		- A project is created to deliver a specific output as efficiently as possible
+		- A temporary endeavor, closes on completion of work characterized to deliver
+
+	Program:
+		- Program focuses on co-ordination of number of related projects and other activities, over time, to deliver outcome that benefits organization.
+		- Contains elements outside the scope of discrete projects in the program
+
+	In nutshell, Project is with small scope, program is a wider scope.
+
+	Project:
+		- Efficient creation of a defined deliverable (Certainty)
+		- Focused on efficient creation output
+
+	Program:
+		- Maximizing the benefits realized with a constrained resources in a changing environment (Un-certainty)
+		- Focused on delivering outcomes
+		- Could be Multi-project, Strategic (learning-organization) or Operational
+	
+Management Approach – Projects vs Programs
+	Manage Uncertainty:
+		Projects - Seek certainty before commencing execution
+		Programs - Plan with an acceptance that world change and impact organizations
+
+	Manage Change:
+		Projects - Minimize change in scope as it impacts time, cost, risk and quality
+		Programs - Embrace change, maximize value
+
+	Manage Risk:
+		Projects - Low risk - Mitigate threats, minimize undefined risk by locking
+		Programs - High risk – plan contingencies, Risk vs Return approach
+
+	Manage Stakeholder Communication:
+		Projects - Align stakeholders with project objectives
+		Programs - Engage stakeholders, map to future responsibilities – Maximize long-term value
+
+	Manage Schedules:
+		Projects - Target 100% work within schedules
+		Programs - Inter dependencies is key – a minor deliverable miss in one project might cause major consequences to other / overall
+
+CMMI Vs Agile Difference:
+	- In Agile, work is divided into small parts with cross functional teams assigned. CMMI provides learning, and repeat the same existing work process. The CMMI question the how in the process.
+	- Agile is a method, CMMI is agile and tool. Sprints and iterations are not involved in this process.
+	- In both Agile and Scrum, the team works on a new process where in CMMI, it works the already worked out process. In scrum and Agile they start implementing the process, in CMMI, they can accept the process that exists already. Once the process is done in form of sprints, Scrum release products.
+	- In Agile, once all the requirements met, they move for testing, if it is failing the loop starts again, it will be removed from the product backlog. In CMMI, once the product is done, testing will be done, if it fails they try to rectify and revise it.
+
+Scrum:
+	Why is it Called Scrum?
+
+	The Scrum methodology complements what is referred to as the agile approach to project management – a means of “breaking down large projects into more manageable tasks, which are completed in short iterations throughout the project life cycle.” 
+
+SCRUM Principles:
+	1. Control over the empirical process.
+
+	In Scrum, the empirical process is based on observation of hard evidence and experimentation rather than theory. There are three main ideas to empirical process control: transparency, inspection, and adaptation. 
+
+	2. Self-organization.
+
+	As the Scrum process relies on many individuals, self-organization is essential. Everyone involved is empowered to work independently, and the self-organization principle allows for greater buy-in among all parties, while making it easier to assess individual contributions.
+
+	3. Collaboration.
+
+	Scrum is a collaborative process, as evidenced by the many roles involved (more on that below). This principle also focuses on three dimensions of collaboration: awareness, articulation, and appropriation.
+	4. Value-based prioritization.
+
+	This principle involves organizing and prioritizing tasks based on their value and how they need to be completed. 
+
+	5. Time-boxing.
+
+	In Scrum, tasks are completed in “sprints,” with specific lengths of time assigned to each one. Other elements, including “sprint planning” and daily meetings, are also given specific start and stop times. This time-boxing ensures that all involved know how much time is allocated to each step, with the goal of eliminating wasted time and delays. 
+
+	6. Iterative development.
+
+	This final principle speaks to the understanding that a project may need to be refined multiple times during the development process. Iterative development allows the team to make adjustments and manage change easier.
+
+Scrum Cycle - sprint:
+	Plan -> produce -> inspect -> adapt -> repeat
+
+Scrum Framework:
+	The Scrum framework consists of:
+
+    Scrum Artifacts
+	    Product Backlog
+	    Sprint Backlog
+	    Burndown charts
+
+    Scrum Roles
+    	Typically 5-9 people:
+    Scrum Rules
+    Scrum Events
+
+
+Factors influencing Sprint duration
+	✓Risk Appetite and Market viability - Urgency of release
+	✓Overall length of the release
+	✓Uncertainty
+	✓Complexity involved
+
+Metrics used in Sprint
+	Velocity—represents the number of User Stories or number of functionalities delivered in a single Sprint.
+ 	Business value delivered—measures the value of the User Stories delivered from the business perspective.
+	Number of stories—refers to how many User Stories are delivered as part of a single Sprint. It can be expressed in terms of simple count or weighted count
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
