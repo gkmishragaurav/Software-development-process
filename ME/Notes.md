@@ -97,6 +97,14 @@ Economics is the study of how societies use scarce recources to produce valuable
 
 <img width="1080" alt="image" src="https://user-images.githubusercontent.com/49789867/156207876-f8358aa4-2d0a-41b6-b668-411be22bd519.png">
 
+#### Example for Calculating Elasticities:
+    - The elasticity of a straight line at a point is given by the ratio of the length of the line segment below the point to the length of the line segment above the point. 
+    - At the top of the line, a very small percentage price change induces a very large percentage quantity change and the elasticity is therefore extremely large.
+    - elasticity is relatively large when we are high up the linear DD curve.
+    - We use the rule to calculate the elasticity at point B in Figure 4-4. Calculate the ratio of the line segment BZ to the segment AB. Looking at the axes, we see that the ratio is 3. Therefore, price elasticity at point B is 3. A similar calculation at point R shows that demand at that point is inelastic, with an elasticity of 1⁄3. Finally, calculate elasticity at point M. Here, the ratio of the two line segments is one, so demand is unit-elastic at the midpoint M.
+    - We can also use the rule to calculate the elasticity of a curved demand curve.For this case, you begin by drawing a line that is tangent to the point, and you then calculate the ratio of segments for the tangent line. This will provide the correct calculation of elasticity for the curved line.
+
+<img width="1094" alt="image" src="https://user-images.githubusercontent.com/49789867/156210427-117e4341-dcdf-4710-b810-ba18af53943d.png">
 
 
 
