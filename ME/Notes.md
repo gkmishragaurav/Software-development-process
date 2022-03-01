@@ -75,7 +75,27 @@ Economics is the study of how societies use scarce recources to produce valuable
     
 ![alt text](https://user-images.githubusercontent.com/49789867/156183407-4d9774bc-47b6-4617-bd42-d722fd1bf4cd.png "Logo Title Text 1")
 
+### Economics notes: Class 2
 
+#### PRICE ELASTICITY OF DEMAND:
+    - The price elasticity of demand (sometimes simply called price elasticity) measures how much the quantity demanded of a good changes when its price changes. The precise definition of price elasticity is the percentage change in quantity demanded divided by the percentage change in price.
+    - Goods vary enormously in their price elasticity, or sensitivity to price changes. When the price elasticity of a good is high, we say that the good has “elastic” demand, which means that its quantity demanded responds greatly to price changes. Goods that have ready substitutes tend to have more elastic demand than those that have no substitutes. If all food or footwear prices were to rise 20 percent tomorrow, you would hardly expect people to stop eating or to go around barefoot, so food and footwear demands are price-inelastic.
+    - When the price elasticity of a good is low, it is “inelastic” and its quantity demanded responds little to price changes. if mad-cow disease drives up the price of British beef, people can turn to beef from other countries or to lamb or poultry for their meat needs. Therefore, British beef shows a high price elasticity.
+    - The length of time that people have to respond to price changes also plays a role. A good example is that of gasoline. Suppose you are driving across the country when the price of gasoline suddenly increases. Is it likely that you will sell your car and abandon your vacation? Not really. So in the short run, the demand for gasoline may be very inelastic.
+    - In the long run, however, you can adjust your behavior to the higher price of gasoline. You can buy a smaller and more fuel-effi cient car, ride a bicycle, take the train, move closer to work, or carpool with other people. 
+    - The price elasticities of demand for individual goods are determined by the economic characteristics of demand. Price elasticities tend to be higher when the goods are luxuries, when substitutes are available, and when consumers have more time to adjust their behavior. By contrast, elasticities are lower for necessities, for goods with few substitutes, and for the short run.
+    
+<img width="537" alt="image" src="https://user-images.githubusercontent.com/49789867/156207605-da8fefa2-eeec-46c3-b1f9-9cda24075b31.png">
+
+#### Calculating Elasticities:
+        Price elasticity of demand = ED = 
+                percentage change in quantity demanded
+                _____________________________________
+                percentage change in price
+                
+    Note the use of averaging to calculate percentage changes in price and quantity. The formula for a percentage change is ΔP/P. The value of ΔP is clearly 20=110-90. But it’s not immediately clear what value we should use for P in the denominator. Is it the original value of 90, the final value of 110, or something in between? For very small percentage changes, such as from 100 to 99, it does not much matter whether we use 99 or 100 as the denominator. But for larger changes, the difference is significant. To avoid ambiguity, we will take the average price to be the base price for calculating price changes. we used the average of the two prices [P=(90+110)/2=100] as the base or denominator in the elasticity formula. Similarly, we used the average quantity [Q=(160+240)/2=200] as the base for measuring the percentage change in quantity. 
+
+<img width="1080" alt="image" src="https://user-images.githubusercontent.com/49789867/156207876-f8358aa4-2d0a-41b6-b668-411be22bd519.png">
 
 
 
