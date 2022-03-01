@@ -16,7 +16,7 @@ Economics is the study of how societies use scarce recources to produce valuable
         - First is the substitution effect, which occurs because a good becomes relatively more expensive when its price rises. When the price of good A rises, I will generally substitute goods B, C, D, . . . for it. For example, as the price of beef rises, I eat more chicken.
         - A higher price generally also reduces quantity demanded through the income effect. This comes into play because when a price goes up, I find myself somewhat poorer than I was before. If gasoline prices double, I have in effect less real income, so I will naturally curb my consumption of gasoline and other goods
 
-<img width="498" alt="image" src="https://user-images.githubusercontent.com/49789867/156184374-8dbe7fb5-2f84-46fd-b6ce-b2f2953df2ea.png">
+<img width="498" alt="image" align="center" src="https://user-images.githubusercontent.com/49789867/156184374-8dbe7fb5-2f84-46fd-b6ce-b2f2953df2ea.png">
 
 
 #### Forces behind the Demand Curve:
@@ -106,10 +106,51 @@ Economics is the study of how societies use scarce recources to produce valuable
 
 <img width="1094" alt="image" src="https://user-images.githubusercontent.com/49789867/156210427-117e4341-dcdf-4710-b810-ba18af53943d.png">
 
+#### ELASTICITY AND REVENUE
+    - Total revenue is by defi nition equal to price times quantity (or P Q). If consumers buy 5 units at $3 each, total revenue is $15. If you know the price elasticity of demand, you know what will happen to total revenue when price changes.
+        - When demand is price-inelastic, a price decrease reduces total revenue.
+        - When demand is price-elastic, a price decrease increases total revenue.
+        - In the borderline case of unit-elastic demand, a price decrease leads to no change in total revenue.
 
+<img width="1045" alt="image" src="https://user-images.githubusercontent.com/49789867/156227358-54ca04e4-391d-49f5-8458-e1a2fa82d22f.png">
 
+#### Factors Affecting Demand Elasticity:
+    ease of substitution
+    proportion of total expenditure
+    durability/postponing purchase
+    possibility of repair
+    used product market
+    length of the time period 
+    
+#### What Is Income Elasticity of Demand?
+    - Income elasticity of demand refers to the sensitivity of the quantity demanded for a certain good to a change in the real income of consumers who buy this good.
+    - High income elasticities, such as those for airline travel or yachts, indicate that the demand for these goods rises rapidly as income increases. 
+    - Low income elasticities, such as for potatoes or used furniture, denote a weak response of demand to increases in income.
+    - The formula for calculating income elasticity of demand is the percent change in quantity demanded divided by the percent change in income. With income elasticity of demand, you can tell if a particular good represents a necessity or a luxury.
 
+        Point Income Elasticity = 
+                % change in quantity demanded
+                _____________________________
+                % change in income
 
+#### Arc elasticity measures the mid point between the two selected points:
+![image](https://user-images.githubusercontent.com/49789867/156229648-59b78075-e0ba-4399-a113-22c2c1976b31.png)
+
+#### Example of Difference between Point and Arc Elasticity A to B(look at pic given below):
+    Point elasticity A to B:
+        Quantity increase from 200 to 300 = 100/200 = 50%
+        Price falls from 4 to 3 = 1/4 = -25%
+        Therefore PED = 50/ -25 =  – 2.0
+
+    Mid Point (Arc) Elasticity A to B:
+
+        Mid point of Q = (200+300) / 2 = 250
+        Mid Point of P = (3+4) / 2 = 3.5
+        Q % = (100/250) = 40%
+        P % = 1/3.5 = 28.57
+        AE = 40/-28.57 = – 1.4
+
+<img width="493" alt="image" src="https://user-images.githubusercontent.com/49789867/156230166-83d2d108-7430-464f-8dcf-1ae271a7c243.png">
 
 
 
