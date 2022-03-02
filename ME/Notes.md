@@ -152,6 +152,32 @@ Economics is the study of how societies use scarce recources to produce valuable
 
 <img width="493" alt="image" src="https://user-images.githubusercontent.com/49789867/156230166-83d2d108-7430-464f-8dcf-1ae271a7c243.png">
 
+#### Fixed Cost:
+    Fixed costs are expenses that must be paid even if the fi rm produces zero output. Sometimes called “overhead” or “sunk costs,” they consist of items such as rent for factory or offi ce space, interest payments on debts, salaries of tenured faculty, and so forth. They are fi xed because they do not change if output changes. For example, a law fi rm might have an office lease which runs for 10 years and remains an obligation even if the fi rm shrinks to half its previous size. Because FC is the amount that must be paid regardless of the level of output, it remains constant
+
+#### Total cost:
+    the lowest total dollar expense needed to produce each level of output q. TC rises as q rises. Fixed cost represents the total dollar expense that is paid out even when no output is produced; fixed cost is unaffected by any variation in the quantity of output. Variable cost represents expenses that vary with the level of output—such as raw materials, wages, and fuel—and includes all costs that are not fixed. Always, by definition,
+    TC = FC + VC
+
+#### Marginal cost:
+    the extra or additional cost of producing 1 extra unit of output. Say a fi rm is producing 1000 compact discs for a total cost of $10,000. If the total cost of producing 1001 discs is $10,006, then the marginal cost of production is $6 for the 1001st disc.
+
+
+#### Average or Unit Cost:   
+    Average cost (AC ) is a concept widely used in business; by comparing average cost with price or average revenue, businesses can determine whether or not they are making a profi t. Average cost is the total cost divided by the total number of units produced,
+    
+<img width="406" alt="image" src="https://user-images.githubusercontent.com/49789867/156412837-cb62b58b-3656-44ef-b073-e4e5a340118d.png">
+
+#### Average fixed cost:
+    defined as FC/q. Since total fixed cost is a constant, dividing it by an increasing output gives a steadily falling average fixed cost curve. In other words, as a firm sells more output, it can spread its overhead cost over more and more units.
+
+#### Average variable cost (AVC ):
+    equals variable cost divided by output, or AVC = VC/q. 
+
+#### The Relation between Average Cost and Marginal Cost:
+    1. When marginal cost is below average cost, it is pulling average cost down.
+    2. When MC is above AC, it is pulling up AC.
+    3. When MC just equals AC, AC is constant. At the bottom of a U-shaped AC, MC = AC = minimum AC
 
 
 
