@@ -179,6 +179,12 @@ Economics is the study of how societies use scarce recources to produce valuable
     2. When MC is above AC, it is pulling up AC.
     3. When MC just equals AC, AC is constant. At the bottom of a U-shaped AC, MC = AC = minimum AC
 
+#### PATTERNS OF IMPERFECT COMPETITION:
+    - Imperfect competition prevails in an industry whenever individual sellers can affect the price of their output. The major kinds of imperfect competition are monopoly, oligopoly, and monopolistic competition.
+    - Imperfect competition does not imply that a firm has absolute control over the price of its product. 
+    - Take the cola market, where Coca-Cola and Pepsi together have the major share of the market, and imperfect competition clearly prevails. If the average price of other producers’ sodas in the market is 75 cents, Pepsi may be able to set the price of a can at 70 or 80 cents and still remain a viable fi rm. The fi rm could hardly set the price at $40 or 5 cents a can because at those prices it would go out of business.
+    
+<img width="945" alt="image" src="https://user-images.githubusercontent.com/49789867/156604855-eb10d2a7-8d63-4513-8355-59db50e72857.png">
 
 
 
