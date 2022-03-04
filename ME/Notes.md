@@ -186,7 +186,26 @@ Economics is the study of how societies use scarce recources to produce valuable
     
 <img width="945" alt="image" src="https://user-images.githubusercontent.com/49789867/156604855-eb10d2a7-8d63-4513-8355-59db50e72857.png">
 
+#### Monopoly:
+    - At one pole of the competitive spectrum is the perfect competitor, which is one fi rm among a vast multitude of firms. At the other pole is the monopoly, which is a single seller with complete control over an industry.
+    - A monopolist is the only firm producing in its industry, and there is no industry producing a close substitute.
+    - Most monopolies persist because of some form of government regulation or protection. 
+    - For example, a pharmaceutical company that discovers a new wonder drug may be granted a patent, which gives it monopoly control over that drug for a number of years.
+    - In the long run, no monopoly is completely secure from attack by competitors.
+    - Monopolist is “price-maker”. (P – MC): mark-up pricing.
+    - Does a Monopolist can set price as s/he wishes to be?
+        - Firm’s ability to set its price is limited by the demand curve for its product.
+        - Depends on price elasticity of DD for its product.
 
+#### Oligopoly:
+    - The term oligopoly means “few sellers.” Few, in this context, can be a number as small as 2 or as large as 10 or 15 firms. The important feature of oligopoly is that each individual fi rm can affect the market price.
+    - In the airline industry, the decision of a single airline to lower fares can set off a price war which brings down the fares charged by all its competitors.
+
+#### Monopolistic Competition:
+    - In this situation, a large number of sellers produce differentiated products. This market structure resembles perfect competition in that there are many sellers, none of whom has a large share of the market. It differs from perfect competition in that the products sold by different fi rms are not identical. Differentiated products are ones whose important characteristics vary.
+    - The classic case of monopolistic competition is the retail gasoline market. You may go to the local Shell station, even though it charges slightly more, because it is on your way to work. But if the price at Shell rises more than a few pennies above the competition, you might switch to the Merit station a short distance away
+
+<img width="1153" alt="image" src="https://user-images.githubusercontent.com/49789867/156608581-2ba976b3-dfe4-4910-aee1-95bfd0a64e4e.png">
 
 
 
