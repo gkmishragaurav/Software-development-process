@@ -242,4 +242,58 @@ Economics is the study of how societies use scarce recources to produce valuable
 
 ![Screenshot 2022-03-05 at 12 41 58 PM](https://user-images.githubusercontent.com/49789867/156872850-eb81a0d8-9066-4054-8e6d-ff0d082f51d1.png)
 
-    - Gross domestic product is the sum of all final products. Along with consumption goods and services, we must also include gross investment.
+### ME-class 5
+
+#### Capitalism:
+    - Capitalism is an economic system characterized by private ownership of the means of production, especially in the industrial sector.
+    - Capitalism depends on the enforcement of private property rights, which provide incentives for investment in and productive use of productive capital.
+    - Capitalism developed historically out of previous systems of feudalism and mercantilism in Europe, and dramatically expanded industrialization and the large-scale availability of mass-market consumer goods.
+    - Pure capitalism can be contrasted with pure socialism (where all means of production are collective or state-owned) and mixed economies (which lie on a continuum between pure capitalism and pure socialism).
+
+#### Crony Capitalism
+    Crony capitalism refers to a capitalist society that is based on the close relationships between business people and the state. Instead of success being determined by a free market and the rule of law, the success of a business is dependent on the favoritism that is shown to it by the government in the form of tax breaks, government grants, and other incentives.
+    Crony Capitalism Fails!
+        – if private property is not secure
+        – markets won’t be competitive
+
+    Dynamic Capitalism Succeeds
+        1. private incentives for cost reduction innovation
+        2. firms managed efficient managers (lessen cost)
+        3. supportive public policy/stable society
+
+#### Twelve pillars of competitiveness:
+
+    Institutions
+    Appropriate infrastructure
+    Stable macroeconomic framework
+    Good health and primary education
+    Higher education and training
+    Efficient goods markets
+    Efficient labor markets
+    Developed financial markets
+    Ability to harness existing technology
+    Market size—both domestic and international
+    Production of new and different goods using the most sophisticated production processes
+    Innovation
+
+#### Global competitiveness at global level vs innovation - 
+    creating an innovative environment is crucial to competitiveness. if happens so, does this means higher wealth creation? answer is no. reason ---- same amount of innovation will not lead to same amount of GDP , infect full potential has to be explored.
+
+
+#### Sustaining high growth:
+    1. Openness to import knowledge - exploit global demand
+    2. high saving high investment
+    3. low/modest inflation
+    4. don't disturb market, allow demand and supply
+    5. leadership and governance
+
+#### Economic Growth (&Welfare) is Driven by?
+    Investment in (Physical) Capital
+        Saving & Investment -- in goods, capital, develop labour force
+    Investment in Human Capital
+        Education (skill up gradation), Health & Social Security
+    Adoption of New Technology
+        R & D
+        Infrastructure
+        Private Investment
+        FDI
