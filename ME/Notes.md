@@ -207,5 +207,19 @@ Economics is the study of how societies use scarce recources to produce valuable
 
 <img width="1153" alt="image" src="https://user-images.githubusercontent.com/49789867/156608581-2ba976b3-dfe4-4910-aee1-95bfd0a64e4e.png">
 
+#### GDP:
+    - The gross domestic product (GDP) is the most comprehensive measure of a nation’s total output of goods and services. It is the sum of the dollar values of consumption (C ), gross investment (I ), government purchases of goods and services (G ), and net exports (X ) produced within a nation during a given year.
+                    GDP = C + I + G + X
 
+    - GDP is used for many purposes, but the most important one is to measure the overall performance of an economy.
+
+#### Two Measures of National Product - Goods Flow and Earnings Flow: 
+    Flow-of-Product Approach - 
+        - Each year the public consumes a wide variety of final goods and services. Households spend their incomes for these consumer goods. Add together all the consumption dollars spent on these fi nal goods, and you will arrive at this simplifi ed economy’s total GDP.
+        - The gross domestic product is defined as the total money value of the flow of final products produced by the nation.
+
+    Earnings or Income Approach:    
+        - By measuring the annual fl ow of these earnings or incomes, statisticians will again arrive at the GDP
+
+![image](https://user-images.githubusercontent.com/49789867/156871308-e1a7db0a-3790-4486-bb81-0aae32e4b4b8.png)
 
