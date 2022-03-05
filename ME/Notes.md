@@ -297,3 +297,16 @@ Economics is the study of how societies use scarce recources to produce valuable
         Infrastructure
         Private Investment
         FDI
+
+#### Notes:
+ - Higher the price of certain luxurious articles, higher will be the demand, this concept is called - Veblen effects
+ - In the case of perfect elasticity, the demand curve is - Horizontal
+ - Incremental revenue -- is the change in total revenue irrespective of changes in price or due to the effect of managerial decision on revenue
+ - Perfect competition is characterized by - large number of buyers and sellers, homogeneous product, free entry and exit of firms
+ - The distinction between variable cost and fixed cost is relevant only in - short period
+ - The proportionate change in the quantity demanded of a commodity in response to change in the price of another related commodity is called - Cross elasticity
+ -  Demand Estimation----  is the process of finding current values of demand for various values of prices and other determining variables.
+ - Average revenue ------ means the total receipts from sales divided by the number of unit sold.
+ - Whenever Marginal cost is greater than average total cost, average total cost is rising.
+ - The relationship between price and quantity demanded is - inverse
+ - For the commodities like salt, sugar etc., the income elasticity will be === Zero
