@@ -223,3 +223,23 @@ Economics is the study of how societies use scarce recources to produce valuable
 
 ![image](https://user-images.githubusercontent.com/49789867/156871308-e1a7db0a-3790-4486-bb81-0aae32e4b4b8.png)
 
+#### Real vs. Nominal GDP: “Deflating” GDP by a Price Index:
+    - We can measure the GDP for a particular year using the actual market prices of that year; this gives us the nominal GDP, or GDP at current prices. 
+    - But we are usually more interested in determining what has happened to the real GDP, whichis an index of the volume or quantity of goods and services produced.
+    - Real GDP is calculated by tracking the volume or quantity of production after removing the influence of changing prices or infl ation. Hence, nominal GDP is calculated using changing prices, while real GDP represents the change in the volume of total output after price changes are removed.
+
+
+                    Q = real GDP     nominal GDP         PQ
+                                  = ________________  =  __
+                                    GDP price index      P
+
+
+    Note: 
+    - Gross domestic product is the sum of all final products. Along with consumption goods and services, we must also include gross investment.
+    - Net investment equals gross investment minus depreciation.
+
+![image](https://user-images.githubusercontent.com/49789867/156872103-64c698a4-67f4-4904-869a-c5f1d548751a.png)
+
+![Screenshot 2022-03-05 at 12 41 58 PM](https://user-images.githubusercontent.com/49789867/156872850-eb81a0d8-9066-4054-8e6d-ff0d082f51d1.png)
+
+    - Gross domestic product is the sum of all final products. Along with consumption goods and services, we must also include gross investment.
