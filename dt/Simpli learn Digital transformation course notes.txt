@@ -1,0 +1,123 @@
+What is being Digital refers to:
+	Digital refers to increasing the connectedness between people, processes, and products.
+
+What Is Digital Transformation?
+	Digital transformation refers to an overall transformation of organizational activities aimed at leveraging opportunities created by digital technologies and data.
+
+Digital transformation requires the company to transform its:
+	- Business Model --- Enterprises need to fundamentally change the way they identify, develop, and launch new businesses.
+	- Infrastructure
+	- Processes
+	- Culture
+
+Need for Digital Transformation:
+	- Accelerating Change ---- The pace of digital change is rising exponentially, making it very difficult to maintain a position of industry leadership. 
+	- Digital competition --- Digital competition has forced established businesses to reexamine their models on the lines of digital startups.
+	- Customer expectations ---- Customers expect a good experience across all touch points. it is important to ensure that their interactions are seamless and exceptional.
+	- Digital adoption ---- Digital adoption like Big Data automation and IoT has made it necessary for companies to transform completely.
+
+Being Digital vs. Adopting Technology:
+	- Focuses on buying technology that best fits business needs ---- Focuses on buying the best and latest technology with no considerations to business needs.
+	- Calls for an overall cultural change before adoption ---- Does not require cultural changes.
+	- Demands holistic view of business problem from leaders ---- Does not require reference to business problem.
+	- Focuses on strategic innovation from long-term perspective ---- Has a narrow perspective to meeting immediate business needs.
+	- Calls for change in core business elements and policies ---- Plays a supporting role in digital transformation.
+
+Digital Transformation: Impact on Enterprises:
+	- Business Model --- Enterprises need to fundamentally change the way they identify, develop, and launch new businesses.
+	- Operating models ---  Enterprises need to follow a lean approach to both core and support functions.
+	- Talent and skills ---  Enterprises need to attract, retain, and develop the right talent.
+	- Traction metrics ---  Enterprises need to adopt newer digital traction metrics as traditional KPIs are no longer effective in digital business.
+
+Core Elements for Digital Transformation:
+	- People
+	- Process
+	- Technology
+	
+Driving a Digital Culture in an Organization:
+	Risk-Taking Approach - To stay ahead in the competition, companies need to ensure that Leaders are comfortable taking calculated risks to drive growth and achieve bolder targets. Leaders should adopt risk-taking approach that empowers them to break self-imposed limits and uncover unforeseen opportunities
+
+	Cross-Functional Collaboration - Companies need to break down silos and boost cross-functional collaboration. The speed at which market changes requires companies to combine their internal capabilities to address complex and specialized customer needs.
+
+	Flat Hierarchy - Digital adoption calls for change in the hierarchical structures of the organization that were meant for times when the environment wasn’t very fragile and demanding like today.
+
+	Agile and Dynamic Work Culture - It involves investing in digital opportunities for employees, streamlining organizational structures for agility, and applying the right technology. Organizations need to create an environment that ensures agility in company’s business operation, people, culture, and structure and align these to organizational long-term digital goals.
+
+	Adoption of New Technology - Organizations today are investing in solutions and platforms that support both front office (employee invoked) and back office (taken from a queue or on schedule). This can be achieved by putting together a team of consultants who have a logical mindset, programming experience, and an interest in solving business challenges.
+
+	Data-Driven Process - Data traffic is increasing at an exponential rate and so are the opportunities. Business cases are being created for data-driven innovation processes. Companies are responding to the change in the consumer behavior. Data capabilities are vital to ensure that there is room for technology and people.
+
+	Encourage New Ideas and Innovation - Organizations are finding more innovative and collaborative ways of working to ensure that they remain focused on their customers over and above their internal processes. Innovation is seen as one of the winning approaches in the digital era.
+
+Digital Implementation:
+	To successfully adopt a digital transformation, an organization must have a holistic mindset toward technological progress. The organization must embrace the transformation and integrate it in the daily tasks of team members. This digital Implementation and change in mindset can be categorized into four areas:
+
+	Data Architecture - 
+		● It plays a very important role in the creation of strategies from increasingly large and complex data volumes.
+		● It refers to a set of rules and policies that govern and define the type of data collected.
+		● It is stored and managed within an organization and governs its database.
+
+		Data architecture is seen as a top challenge for digitizing business as most companies focus on getting the best technology without analyzing the need. This leads to redundant and inconsistent data storage. It causes overlapping functionality and lack of sustainability in the process.
+
+		To effectively create an end-to-end data architecture, an organization must adopt an IT-supported digitization to:
+			● Analyze current and future business requirements
+			● Sketch a flexible data management architecture
+			● Create a roadmap for implementation based on its business usage
+
+		This approach is based on continuous delivery model. IT teams that specializes in cross-functional management, automate systems and optimize processes to release and iterate a software quickly and efficiently.
+
+	Technology & Processes:
+		● Digital implementation involves the process of integrating new technologies like Chatbots, Machine learning, and Big data to meet the changing needs of customers.
+		● Marketing automation process is adopted to ensure the optimum utilization of resources.
+		● Marketing automation is a software that automates the marketing process of an organization.
+		● It ensures that marketing tasks are prioritized and executed in a more streamlined and efficient way.
+
+	Organization:
+		● Digital implementation in an organization is about analyzing and re-examining ways of doing business and being aware of new opportunities and threats to capitalize the emerging market.
+		● Digital in an organization is about:
+			o Creating value at the new frontiers of the business world
+			o Creating value in the process of overall buyer’s journey that execute a vision of customer experiences
+			o Building foundational capabilities in the form of technology to support the entire structure
+
+	Marketing:
+		● The marketing approach of digital implementation involves using digital technologies in the marketing of products and services, mainly on the Internet.
+		● Digital integration with marketing enables organizations to provide personalized services to its customers across the marketing funnel stages.
+
+
+Design Thinking:
+	Design thinking is a system that uses the designer's sensibility and methods to match people's needs with what is technologically feasible and what a viable business can convert into consumer value and market opportunity.
+
+	Design thinking steps out of the traditional boxes with visual thinking, creativity, and innovation in order to find new solutions to the same issues. The five stages of design thinking:
+
+	1. Empathizing with users
+	2. Defining the needs and problems of users and giving insights
+	3. Ideating based on challenging assumptions and exploring ideas for innovative solutions
+	4. Prototyping to start creating solutions
+	5. Testing solutions
+
+Case Study:- DIGITAL TRANSFORMATION: A ROADMAP FOR BILLION-DOLLAR ORGANIZATIONS Notes
+
+How can senior executives successfully lead digital transformation?
+	- Successful digital transformation comes not from implementing new technologies but from transforming your organization to take advantage of the possibilities that new technologies provide.
+	- Major digital transformation initiatives are centered on re-envisioning customer experience, operational processes and business models.
+	- Successful DT does not happen bottom up. It must be driven from the top.
+	- Focus on the “how” more than the “what.” The most successful transformations we have seen focus as much (or more) on how to drive change as on the detailed content of the change. A compelling transformative vision, with related engagement, governance and KPIs will allow people throughout the enterprise to identify new “whats” to meet or extend the vision.
+	- Successful DT comes not from creating a new organization, but from re-shaping the organization to take advantage of valuable existing strategic assets in new ways.
+
+HOTELCO: FINDING NEW OPPORTUNITIES FOR DIGITAL TRANSFORMATION ACROSS THE ENTERPRISE:
+
+
+
+Q. I am from A startup culture, if we need a solution, we mostly pickup the technology and start building stuff. So How digital transformation is different from adoption new technology?
+
+Q. We start digital transformation from top to bottom or bottom to top or make an strategy to do it at all fronts, same time.
+
+
+
+
+
+
+
+
+
+
