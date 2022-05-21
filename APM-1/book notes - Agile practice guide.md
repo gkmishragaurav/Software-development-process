@@ -42,6 +42,6 @@ https://www.scrum.org/resources/blog/how-12-principles-agile-manifesto-work-real
 		* Frequent delivery.
 		
 ### Answer these questions before reading further
-Q. How agile menifesto and 12 principles generate multiple practice?
-Q. HoW lean, Agile and kanban are connected?
----------------------------------------- End of notes day-1 ---------------------------------------
+	Q. How agile menifesto and 12 principles generate multiple practice?
+	Q. HoW lean, Agile and kanban are connected?
+
