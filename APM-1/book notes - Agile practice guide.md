@@ -9,7 +9,6 @@
 	- Guidance, techniques, and approaches to consider when implementing agile in projects or organizations
 
 ### The Agile Manifesto:
-
 	Individuals and interactions over processes and tools
 	Working software over comprehensive documentation
 	Customer collaboration over contract negotiation
@@ -36,8 +35,8 @@ https://www.scrum.org/resources/blog/how-12-principles-agile-manifesto-work-real
 	- As project uncertainty increases, so too does the risk of rework and the need to use a different approach. To mitigate the impact of these risks, teams select life cycles that allow them to tackle projects with high amounts of uncertainty via small increments of work.
 	- Teams can plan and manage projects with clear and stable requirements and clear technical challenges with little difficulty. However, as the uncertainty in the project increases, the likelihood of changes, wasted work, and rework also increases, which is costly and time consuming.
 	- Some teams have evolved project life cycles to use iterative and incremental approaches. Many teams discover that when they explore the requirements iteratively and deliver more often incrementally, the teams adapt to changes more easily. These iterative and incremental approaches reduce waste and rework because the teams gain feedback. These approaches use:
-		Very short feedback loops,
-		Frequent adaptation of process,
-		Reprioritization,
-		Regularly updated plans, and
-		Frequent delivery.
+		* Very short feedback loops,
+		* Frequent adaptation of process,
+		* Reprioritization,
+		* Regularly updated plans, and
+		* Frequent delivery.
