@@ -8,7 +8,7 @@
 	- Discussion on the use of agile beyond software development
 	- Guidance, techniques, and approaches to consider when implementing agile in projects or organizations
 
-### The Agile Manifesto:
+### The Agile Manifesto: Notes start for day-1
 	Individuals and interactions over processes and tools
 	Working software over comprehensive documentation
 	Customer collaboration over contract negotiation
@@ -40,3 +40,8 @@ https://www.scrum.org/resources/blog/how-12-principles-agile-manifesto-work-real
 		* Reprioritization,
 		* Regularly updated plans, and
 		* Frequent delivery.
+		
+### Answer these questions before reading further
+Q. How agile menifesto and 12 principles generate multiple practice?
+Q. HoW lean, Agile and kanban are connected?
+---------------------------------------- End of notes day-1 ---------------------------------------
