@@ -45,3 +45,32 @@ https://www.scrum.org/resources/blog/how-12-principles-agile-manifesto-work-real
 	Q. How agile menifesto and 12 principles generate multiple practice?
 	Q. HoW lean, Agile and kanban are connected?
 
+### charecterstics of project lifecycle:
+	- It is important to note that all projects have these characteristics—no project is completely devoid of considerations around requirements, delivery, change, and goals. A project’s inherent characteristics determine which life cycle is the best fit for that project.
+	- No life cycle can be perfect for all projects. Instead, each project finds a spot on the continuum that provides an optimum balance of characteristics for its context.
+![Screenshot 2022-05-21 at 2 36 30 PM](https://user-images.githubusercontent.com/49789867/169679397-fcfbec55-bba6-44fc-bd92-8e7261ee3b9f.png)
+
+### CHARACTERISTICS OF PREDICTIVE LIFE CYCLES:
+	- Predictive life cycles expect to take advantage of high certainty around firm requirements, a stable team, and low risk. As a result, project activities often execute in a serial manner
+	- In order to achieve this approach, the team requires detailed plans to know what to deliver and how. These projects succeed when other potential changes are restricted. Team leaders aim to minimize change for the predictive project.
+	- When the team creates detailed requirements and plans at the beginning of the project, they can articulate the constraints. The team can then use those constraints to manage risk and cost. As the team progresses through the detailed plan, they monitor and control changes that might affect the scope, schedule, or budget.
+	- By emphasizing a departmentally efficient, serialized sequence of work, predictive projects do not typically deliver business value until the end of the project. 
+	- If the predictive project encounters changes or disagreements with the requirements, or if the technological solution is no longer straightforward, the predictive project will incur unanticipated costs.
+	
+![Screenshot 2022-05-22 at 9 43 43 AM](https://user-images.githubusercontent.com/49789867/169679410-0ef16035-a5d3-4373-802a-64f44387f13c.png)
+
+### CHARACTERISTICS OF ITERATIVE LIFE CYCLES:
+	- Iterative life cycles improve the product or result through successive prototypes or proofs of concept. Each new prototype yields new stakeholder feedback and team insights. Then, the team incorporates the new information by repeating one or more project activities in the next cycle. 
+	- Teams may use timeboxing on a given iteration for a few weeks, gather insights, and then rework the activity based on those insights. In that way, iterations help identify and reduce uncertainty in the project.
+	- Projects benefit from iterative life cycles when complexity is high, when the project incurs frequent changes, or when the scope is subject to differing stakeholders’ views of the desired final product. Iterative life cycles may take longer because they are optimized for learning rather than speed of delivery
+
+![Screenshot 2022-05-22 at 10 08 18 AM](https://user-images.githubusercontent.com/49789867/169679423-673491f5-0962-48a3-be12-c40775697077.png)
+
+### CHARACTERISTICS OF INCREMENTAL LIFE CYCLES
+	- Some projects optimize for speed of delivery. Many businesses and initiatives cannot afford to wait for everything to be completed; in these cases, customers are willing to receive a subset of the overall solution. This frequent delivery of smaller deliverables is called an incremental life cycle.
+	- Incremental life cycles optimize work for delivering value to sponsors or customers more often than a single, final product. 
+	- Teams plan initial deliverables before beginning their work, and they begin working on that first delivery as soon as possible. Some agile projects deliver value within days of project initiation. Others could take longer, ranging from 1 week to several weeks.
+	- As the project continues, the team may deviate from the original vision. The team can manage the deviations, because the team delivers value sooner. The degree of change and variation is less important than ensuring customers get value sooner than at the end of the project.
+	- For example, builders may want to show a finished room or floor of a building before they continue with the remainder of the building. In that case, they may complete a floor with fixtures, paint, and everything else intended for the finished floor before proceeding to the next floor. The customer is able to see and approve of the style, color, and other details, allowing adjustments to be made before further investments of time and money are made. This reduces potential rework and/or customer dissatisfaction.
+	
+![Screenshot 2022-05-22 at 10 15 45 AM](https://user-images.githubusercontent.com/49789867/169679428-a48a08db-a027-4aec-b2aa-cf268982e9f5.png)
