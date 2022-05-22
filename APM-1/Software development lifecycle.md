@@ -1,4 +1,4 @@
-## Notes
+## Notes -- Software development lifecycle formation
 
 ### What we are going to learn?
 	- Implementing agile approaches at a project or team level
