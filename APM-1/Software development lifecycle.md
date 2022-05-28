@@ -1,13 +1,5 @@
 ## Notes -- Software development lifecycle formation
 
-### What we are going to learn?
-	- Implementing agile approaches at a project or team level
-	- Coverage of most popular agile approaches, as listed in industry surveys
-	- Suitability factors to consider when choosing an agile approach and/or practice
-	- Mapping agile to PMBOK® Guide processes and Knowledge Areas
-	- Discussion on the use of agile beyond software development
-	- Guidance, techniques, and approaches to consider when implementing agile in projects or organizations
-
 ### The Agile Manifesto: Notes start for day-1
 	Individuals and interactions over processes and tools
 	Working software over comprehensive documentation
