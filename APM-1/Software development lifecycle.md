@@ -6,7 +6,6 @@
 - Customer collaboration over contract negotiation
 - Responding to change over following a plan
 
-
 ### Based on above agile Manifesto, we have 12 principles
 https://www.scrum.org/resources/blog/how-12-principles-agile-manifesto-work-real-life?gclid=Cj0KCQjwm6KUBhC3ARIsACIwxBjGCBFf0jgsVraYc4DznDsJ_00CQFhXGXqqs8ICaaip08TCrnUbXGUaAvK6EALw_wcB
 
@@ -180,3 +179,17 @@ IMPLEMENTING AGILE: DELIVERING IN AN AGILE ENVIRONMENT
 		- What did I complete since the last standup?
 		- What am I planning to complete between now and the next standup?
 		- What are my impediments (or risks or problems)?
+
+### DEMONSTRATIONS/REVIEWS
+- As the team completes the features usually in the form of user stories, the team periodically demonstrates the working product. The product owner sees the demonstration and accepts or declines stories.
+- In iteration-based agile, the team demonstrates all completed work items at the end of the iteration. In flow- based agile, the team demonstrates completed work when it is time to do so, usually when enough features have accumulated into a set that is coherent. Teams, including the product owner, need feedback to decide how early to ask for product feedback.
+- As a general guideline, demonstrate whatever the team has as a working product at least once every 2 weeks. That frequency is enough for most teams, so team members can get feedback that prevents them from heading in a wrong direction. That is also frequent enough so that the teams can keep the product development clean enough to build a complete product as often as they want or need to.
+
+### EXECUTION PRACTICES THAT HELP TEAMS DELIVER VALUE
+- If the team does not pay attention to quality, it will soon become impossible to release anything rapidly.
+- The following technical practices, many of which come from eXtreme Programming, may help the team to deliver at their maximum speed:
+	- Continuous integration. Perform frequent incorporation of work into the whole, no matter the product, and then retest to determine that the entire product still works as intended.
+	- Test at all levels. Employ system-level testing for end-to-end information and unit testing for the building blocks. In between, understand if there is a need for integration testing and where. Teams find smoke testing helpful as a first look at whether the work product is any good. Teams have found that deciding when to run regression tests and which ones helps them maintain product quality with good build performance. Agile teams have a strong preference for automated tests so they can build and maintain a momentum of delivery.
+	- Acceptance Test-Driven Development (ATDD). In ATDD, the entire team gets together and discusses the acceptance criteria for a work product. Then the team creates the tests, which allows the team to write just enough code and automated tests to meet the criteria. For non-software projects, consider how to test the work as the team completes chunks of value.
+	- Test-Driven Development (TDD) and Behavior-Driven Development (BDD). Writing automated tests before writing/creating the product actually helps people design and mistake-proof the product. For non-software projects, consider how to “test-drive” the team’s designs. Hardware and mechanical projects often use simulations for interim tests of their designs.
+	- Spikes (timeboxed research or experiments). Spikes are useful for learning and may be used in circumstances such as: estimation, acceptance criteria definition, and understanding the flow of a user’s action through the product. Spikes are helpful when the team needs to learn some critical technical or functional element.
