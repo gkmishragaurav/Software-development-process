@@ -127,10 +127,10 @@ The role of a servant leader is ------ to facilitate the team’s discovery and 
 
 
 ### Agile teams:
-	- Agile teams focus on rapid product development so they can obtain feedback. 
-	- Agile encourages self-managing teams, where team members decide who will perform the work within the next period’s defined scope. Agile teams thrive with servant leadership. The leaders support the teams’ approach to their work.
-	- Regardless of the overall agile approach, the more a team limits its work in progress, the more likely its members can collaborate to expedite work across the board. 
-	- Team members in successful agile teams work to collaborate in various ways (such as pairing, swarming, and mobbing) so they do not fall into the trap of mini-waterfalls instead of collaborative work. Mini-waterfalls occur when the team addresses all of the requirements in a given period, then attempts to do all of the design, then moves on to do all of the building. 
+- Agile teams focus on rapid product development so they can obtain feedback. 
+- Agile encourages self-managing teams, where team members decide who will perform the work within the next period’s defined scope. Agile teams thrive with servant leadership. The leaders support the teams’ approach to their work.
+- Regardless of the overall agile approach, the more a team limits its work in progress, the more likely its members can collaborate to expedite work across the board. 
+- Team members in successful agile teams work to collaborate in various ways (such as pairing, swarming, and mobbing) so they do not fall into the trap of mini-waterfalls instead of collaborative work. Mini-waterfalls occur when the team addresses all of the requirements in a given period, then attempts to do all of the design, then moves on to do all of the building. 
 
 <img width="621" alt="Screenshot 2022-06-02 at 2 21 21 PM" src="https://user-images.githubusercontent.com/49789867/171623025-92fe4013-3e43-4f63-b38a-0ed65a836265.png">
 
