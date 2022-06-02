@@ -134,3 +134,49 @@ The role of a servant leader is ------ to facilitate the team’s discovery and 
 
 <img width="621" alt="Screenshot 2022-06-02 at 2 21 21 PM" src="https://user-images.githubusercontent.com/49789867/171623025-92fe4013-3e43-4f63-b38a-0ed65a836265.png">
 
+IMPLEMENTING AGILE: DELIVERING IN AN AGILE ENVIRONMENT 
+
+
+### CHARTER THE PROJECT AND THE TEAM
+- The chartering process helps the team learn how to work together and coalesce around the project.
+- At a minimum, for an agile project, the team needs the project vision or purpose and a clear set of working agreements.
+- An agile project charter answers these questions:
+	- Why are we doing this project? This is the project vision.
+	- Who benefits and how? This may be part of the project vision and/or project purpose.
+	- What does 'done' mean for the project? These are the project’s release criteria.
+	- How are we going to work together? This explains the intended flow of work.
+- A servant leader may facilitate the chartering process. A team can coalesce by working together, and the project charter is a great way to start working.
+
+### Formal process for chartering
+- Teams do not need a formal process for chartering as long as the teams understand how to work together. Some teams benefit from a team chartering process. Here are some chartering ideas for team members to use as a basis for their social contract:
+	- Team values, such as sustainable pace and core hours;
+	- Working agreements, such as what “ready” means so the team can take in work; what “done” means so the team can judge completeness consistently; respecting the timebox; or the use of work-in-process limits;
+	- Ground rules, such as one person talking in a meeting; and
+	- Group norms, such as how the team treats meeting times.
+
+
+### COMMON AGILE PRACTICES
+
+- RETROSPECTIVES
+	- The single most important practice is the retrospective because it allows the team to learn about, improve, and adapt its process.
+	- Retrospectives help the team learn from its previous work on the product and its process. One of the principles behind the Agile Manifesto is: “At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.”
+	- Many teams use iterations—especially 2-week iterations—because the iteration prompts a demonstration and a retrospective at the end. However, the team does not need iterations in order to retrospect. Team members may decide to retrospect at these key times:
+		- When the team completes a release or ships something. It does not have to be a monumental increment. It can be any release, no matter how small.
+		- When more than a few weeks have passed since the previous retrospective.
+		- When the team appears to be stuck and completed work is not flowing through the team.
+		- When the team reaches any other milestone.
+
+- BACKLOG PREPARATION
+	- The backlog is the ordered list of all the work, presented in story form, for a team. There is no need to create all of the stories for the entire project before the work starts—only enough to understand the first release in broad brushstrokes and then sufficient items for the next iteration.
+	- Product owners (or a product owner value team that includes the product manager and all relevant product owners for that area of the product,) might produce a product roadmap to show the anticipated sequence of deliverables over time. The product owner replans the roadmap based on what the team produces. 
+
+- BACKLOG REFINEMENT
+	- In iteration-based agile, the product owner often works with the team to prepare some stories for the upcoming iteration during one or more sessions in the middle of the iteration. The purpose of these meetings is to refine enough stories so the team understands what the stories are and how large the stories are in relation to each other.
+
+- DAILY STANDUPS
+	- Teams use standups to microcommit to each other, uncover problems, and ensure the work flows smoothly through the team.
+	- Timebox the standup to no longer than 15 minutes. The team “walks” the Kanban or task board in some way, and anyone from the team can facilitate the standup.
+	- In iteration-based agile, everyone answers the following questions in a round-robin fashion:
+		- What did I complete since the last standup?
+		- What am I planning to complete between now and the next standup?
+		- What are my impediments (or risks or problems)?
