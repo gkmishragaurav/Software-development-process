@@ -32,5 +32,3 @@ Q. WRSPM Reference Model or The World Machine Model
 - M—the machine. It is the hardware specification. For example, it includes the roller for distributing money, the lock box etc.
 
 <img width="782" alt="Screenshot 2022-06-04 at 12 33 46 PM" src="https://user-images.githubusercontent.com/49789867/171988954-2e00b31a-f870-4409-b7a6-b0b0b37b81d7.png">
-
-- M—the machine. It is the hardware specification. For example, it includes the roller for distributing money, the lock box etc.
