@@ -1,15 +1,15 @@
-Q. What software development looks like?
+### Q. What software development looks like?
 - If you are building a house, how step wise it is build, same is applied in s/w development.
 
-Q. Why do we need requirements?
+### Q. Why do we need requirements?
 - Requirements specify what features a product should include and how those features should work. They help to define the test criteria, which is vital for verification and validation.
 - At the beginning of the software development process, collating and analysing the requirements is one of the first tasks to be done. This usually takes place between the client, software engineer, and tester. All three stakeholders, must come to an agreement as to what the final product should do and how. In addition, to understanding how the product will be verified and validated according to the requirements set out.
 - This activity takes place when creating a new product as well as when modifying or making changes to an existing product. It enables the work to be quantified and bound providing the scope for the project.
 
-Q. What is the difference between a “requirement” and a “specification”?
+### Q. What is the difference between a “requirement” and a “specification”?
 - The dictionary tells us that a requirement is something that is needed and that a specification is a precise description of an item. In the project management arena, the term requirement generally refers to a customer need while specification refers to a detailed, usually technical description of how that need will be met. For example, if an airline wants a plane that will fly 800 passengers from Los Angeles direct to Tokyo, that is a requirement; when the manufacturer designs an aircraft of certain dimensions powered by four engines of certain horsepower, that is a specification.
 
-Q. What is a Non-Functional Requirement?
+### Q. What is a Non-Functional Requirement?
 - If you think of functional requirements as those that define what a system is supposed to do, non functional requirements (NFRs) define constraints which affect how the system should do it.
 	- Security — Does your product store or transmit sensitive information? Does your IT department require adherence to specific standards? What security best practices are used in your industry?
 	- Capacity — What are your system’s storage requirements, today and in the future? How will your system scale up for increasing volume demands?
@@ -23,7 +23,7 @@ Q. What is a Non-Functional Requirement?
 	- Environmental — What types of environments will the system be expected to perform within?
 
 
-Q. WRSPM Reference Model or The World Machine Model
+### Q. WRSPM Reference Model or The World Machine Model
 - WRSPM Model is a reference model of how we understand problems in the real world. It helps to understand the difference between the requirement and the specification. The purpose of the WRSPM model is to ensure that: Specifications meet the requirements.
 - W — is the world assumptions, that we know are true. They have an impact on our system and on our problem domain. These things everyone takes for granted, and they are one of the most difficult parts to capture.
 - R — is the requirements. This is the user’s language understanding of what the user wants from the solution. For example, users want to withdraw money. The ATM is the solution.
