@@ -11,16 +11,16 @@
 
 ### Q. What is a Non-Functional Requirement?
 - If you think of functional requirements as those that define what a system is supposed to do, non functional requirements (NFRs) define constraints which affect how the system should do it.
-	- Security — Does your product store or transmit sensitive information? Does your IT department require adherence to specific standards? What security best practices are used in your industry?
-	- Capacity — What are your system’s storage requirements, today and in the future? How will your system scale up for increasing volume demands?
-	- Compatibility — What are the minimum hardware requirements? What operating systems and their versions must be supported?
-	- Reliability and Availability — What is the critical failure time under normal usage? Does a user need access to this all hours of every day?
-	- Maintainability  + Manageability—How much time does it take to fix components, and how easily can an administrator manage the system? Under this umbrella, you could also define Recoverability and Serviceability.
-	- Scalability – The Black Friday test. What are the highest workloads under which the system will still perform as expected?
-	- Usability — How easy is it to use the product? What defines the experience of using the product?
-	- Performance — How quickly does the system respond to users’ actions, or how long does a user wait for a specific operation to happen?
-	- Regulatory — Are there requirements you need to satisfy for compliance?
-	- Environmental — What types of environments will the system be expected to perform within?
+	- **Security** — Does your product store or transmit sensitive information? Does your IT department require adherence to specific standards? What security best practices are used in your industry?
+	- **Capacity** — What are your system’s storage requirements, today and in the future? How will your system scale up for increasing volume demands?
+	- **Compatibility** — What are the minimum hardware requirements? What operating systems and their versions must be supported?
+	- **Reliability and Availability** — What is the critical failure time under normal usage? Does a user need access to this all hours of every day?
+	- **Maintainability  + Manageability** —How much time does it take to fix components, and how easily can an administrator manage the system? Under this umbrella, you could also define Recoverability and Serviceability.
+	- **Scalability** – The Black Friday test. What are the highest workloads under which the system will still perform as expected?
+	- **Usability** — How easy is it to use the product? What defines the experience of using the product?
+	- **Performance** — How quickly does the system respond to users’ actions, or how long does a user wait for a specific operation to happen?
+	- **Regulatory** — Are there requirements you need to satisfy for compliance?
+	- **Environmental** — What types of environments will the system be expected to perform within?
 
 
 ### Q. WRSPM Reference Model or The World Machine Model
