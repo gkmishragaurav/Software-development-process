@@ -23,13 +23,18 @@
 - Just because we’re changing the plan does not mean we change the dates. We may or may not do that. But if we learn we were wrong about some aspect of the target product and need to do something about it, then the plan needs to change. There are many ways we can change the plan without changing the date. We can drop a feature, we can reduce the scope of a feature, we can possibly add people to the project, and so on.
 
 ### Q. Why Planning Fails?
-- Planning Is By Activity Rather Than Feature:
+- **Planning Is By Activity Rather Than Feature:**
 	- A critical problem with traditional approaches to planning is that they focus on the completion of activities rather than on the delivery of features. A traditionally managed project’s Gantt chart or work breakdown structure identifies the activities that will be performed. This becomes how we measure the progress of the team. A first problem with activity-based planning is that customers get no value from the completion of activities. Features are the unit of customer value. Planning should, therefore, be at the level of features, not activities.
 	- A second problem occurs after a traditional schedule has been created and is being reviewed. When we review a schedule showing activities we do so looking for forgotten activities rather than for missing features.
 	- Some of the reasons why activity-based planning leads to schedule overruns include:
 		- Activities don’t finish early
 		- Lateness is passed down the schedule
 		- Activities are not independent
-- Multitasking Causes Further Delays:
-- Features Are Not Developed By Priority
-- Estimates Become Commitments
+- **Multitasking Causes Further Delays:**
+  - A second reason why traditional approaches to planning often fail is multitasking, which is defined as simultaneously working on multiple tasks. Multitasking exacts a horrible toll on productivity.
+- **Features Are Not Developed By Priority:**
+  - A third reason why traditional planning fails to consistently lead to high-value products is because the work described by the plan is not prioritized by the value to the users and customer. Many traditional plans are created with the assumption that all identified activities will be completed. This means that work is typically prioritized and sequenced for the convenience of the development team.
+- **We Ignore Uncertainty:**
+  - A fourth shortcoming with traditional approaches to planning is the failure to acknowledge uncertainty. We ignore uncertainty about the product and assume that the initial requirements analysis led to a complete and perfect specification of the product. We assume that users will not change their minds, refine their opinions, or come up with new needs during the period covered by the plan.
+- **Estimates Become Commitments:**
+  - Embedded within each and every estimate is a probability that the work will be completed in the estimated time. Suppose your team has been asked to develop a new high-end word processor. The probability of finishing this by the end of the week is 0%. The probability of finishing it in ten years is 100%. If I ask you for an estimate and you tell me the end of the week, that estimate comes with a probability of 0%. If the estimate you give me is ten years, that estimate comes with a probability of 100%. Each estimate between the end of the week and ten years from now comes with its own probability between 0% and 100% (Armour 2002)
