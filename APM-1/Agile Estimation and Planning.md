@@ -75,4 +75,56 @@ includes scope, schedule, and resources.
   - The second approach is instead to select a story that seems somewhat medium-sized and give it a number somewhere in the middle of the range you expect to use. 
 - Velocity:
   - Velocity is a measure of a team’s rate of progress. It is calculated by summing the number of story points assigned to each user story that the team completed during the iteration. If the team completed three stories each estimated at five story points then their velocity would be fifteen. If the team completed two five-point stories their velocity would be ten.
-  - If a team completed ten story points of work last iteration, our best guess is that they will complete ten story points this iteration. Since story points are estimates of relative size, this will be true whether they work on two five-point stories or five two-point stories.
+  - If a team completed ten story points of work last iteration, our best guess is that they will complete ten story points this iteration. Since story points are estimates of relative size, this will be true whether they work on two five-point stories or five two-point stories
+
+### Techniques for Estimating
+- Estimates Are Shared:
+  - First, on an agile project we tend not to know specifically who will perform a given task. Yes, we may all suspect that the team’s database guru will be the one to do the complex stored procedure task that has been identified. However, there’s no guarantee that this will be the case. She may be busy when the time comes and someone else will work on it. So, since anyone may work on anything, it is important that everyone have input into the estimate.
+  - Second, even though we may expect the database guru to do the work, others may have something to say about her estimate. Suppose, for example, that the team’s database guru, Kristy, estimates a particular user story as three ideal days. Someone else on the project may not know enough to program the feature himself but he may know enough to say, “Kristy, you’re nuts; the last time you worked on a feature like that it took a lot longer. I think you’re forgetting how hard it was last time.” At that point Kristy may offer a good explanation of why it’s different this time. However, more often than not in my experience, she will acknowledge that she was indeed underestimating the feature.
+- Estimation Scale:
+  - Two estimation scales I’ve had good success with are:
+    - The first is the Fibonacci sequence. [1, 2, 3, 5, and 8]
+    - The second sequence is spaced such that each number is twice the number that precedes it.[1, 2, 4, and 8]
+  - Each of these numbers should be thought of as a bucket into which items of the appropriate size are poured. Rather than thinking of work as water being poured into the buckets, think of the work as sand. If you are estimating using 1, 2, 3, 5, and 8 and have a story that you think is just the slightest bit bigger than the other five-point stories you’ve estimated, it would be OK to put it into the five-point bucket. A story you think is a 7, however, clearly would not fit in the five-point bucket.
+- User Stories, Epics, And Themes:
+  - A large user story is sometimes called an epic.
+  - A set of related user stories may be combined together and treated as a single entity for either estimating or release planning. Such a set of user stories is referred to as a theme. An epic, by its very size alone, is often a theme on its own. 
+  - By aggregating some stories into themes and writing some stories as epics, a team is able to reduce the effort they’ll spend on estimating. However, it’s important that they realize that estimates of themes and epics will be more uncertain than estimates of the more specific, smaller user stories.
+- Deriving An Estimate:
+  - The three most common techniques for estimating are:
+    - Expert opinion:
+      - If you want to know how long something is likely to take, ask an expert. At least, that’s one approach. This approach is less useful on agile projects than on traditional projects. On an agile project, estimates are assigned to user stories or other user-valued functionality. Developing this functionality is likely to require a variety of skills normally performed by more than one person. This makes it difficult to find suitable experts who can assess the effort across all disciplines. 
+    - Analogy:
+      - An alternative to expert opinion comes in the form of estimating by analogy, which is what we’re doing when we say “this story is a little bigger than that story.” When estimating by analogy, the estimator compares the story being estimated to one or more other stories. If the story is twice the size, it is given an estimate twice as large.
+      - When estimating this way you do not compare all stories against a single baseline or universal reference. Instead, you want to estimate each new story against an assortment of those that have already been estimated. This is referred to as triangulation. 
+      - To triangulate, compare the story being estimated against a couple of other stories. To decide if a story should be estimated at five story points, see if it seems a little bigger than a story you estimated at three and a little smaller than a story you estimated at eight.
+    - Disaggregation:
+      - Disaggregation refers to splitting a story or feature into smaller, easier-to-estimate pieces. If most of the user stories to be included in a project are in the range of 2-5 days to develop, it will be very difficult to estimate a single story that may be 100 days. Not only are large things notoriously more difficult to estimate, but in this case there will be very few similarly sized stories to compare to.
+      - The solution to this, of course, is to break the large story or feature into multiple smaller items and estimate those. However, you need to be careful not to go too far with this approach. 
+- Planning Poker:
+  - Planning poker, also known as “scrum poker” and “pointing poker”, is a gamified technique that development teams use to guess the effort of project management tasks.
+  - These estimations are based on the entire group’s input and consensus, making them more engaging and accurate than other methods. 
+  - Planning poker combines expert opinion, analogy, and disaggregation into an enjoyable approach to estimating that results in quick but reliable estimates.
+    - Step 1: Hand out the cards to participants:
+      - Distribute an identical deck of cards to everybody. Each one has a number that the team has agreed to use as their estimate. Each player should have a deck consisting of different numbers. Cohn recommended a sequence of 0, 1, 2, 3, 5, 8, 13, 20, 40, and 100. 
+    - Step 2: Read the story out loud
+      - The moderator (either the product owner or product manager) narrates the story to the group. If participants have any questions, the moderator answers them.
+    - Step 3: Discuss the story:
+      - Once the group finishes listening to the story, everyone shares their views on it. Some of these discussion points will likely include: How should we handle the work?
+    - Step 4: Select and share
+      - After the discussion, each person will privately select a card from the deck. Usually, it’s used to show an estimate of story points (but can also be used to represent the number of ideal days). Once everyone selects a card, they show them at the same time.
+    - Step 5: Reach a consensus
+      - When team members show the same card, that number turns into a consensus. Now, the group can move forward and work on the next story.
+  - The benefits:
+    - Estimating tasks relative to each other.
+    - Lending an equal voice to everyone on the team. 
+    - Identifying gaps in requirement and implementation.
+
+
+
+
+
+
+
+
+
