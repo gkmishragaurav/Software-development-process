@@ -38,3 +38,41 @@
   - A fourth shortcoming with traditional approaches to planning is the failure to acknowledge uncertainty. We ignore uncertainty about the product and assume that the initial requirements analysis led to a complete and perfect specification of the product. We assume that users will not change their minds, refine their opinions, or come up with new needs during the period covered by the plan.
 - **Estimates Become Commitments:**
   - Embedded within each and every estimate is a probability that the work will be completed in the estimated time. Suppose your team has been asked to develop a new high-end word processor. The probability of finishing this by the end of the week is 0%. The probability of finishing it in ten years is 100%. If I ask you for an estimate and you tell me the end of the week, that estimate comes with a probability of 0%. If the estimate you give me is ten years, that estimate comes with a probability of 100%. Each estimate between the end of the week and ten years from now comes with its own probability between 0% and 100% (Armour 2002)
+
+### An Agile Approach To Projects:
+With an understanding of the four primary agile value statements, we can turn our attention to what an agile team looks like in practice. Taken collectively, the four value statements lead to software development processes that are highly iterative and incremental and that deliver coded and tested software at the end of each iteration. The following sections cover some of the main ways in which agile teams work. Including that they:
+- Work as one team
+- Work in short iterations
+- Deliver something each iteration
+- Focus on business priorities
+- Inspect and adapt
+
+### An Agile Approach To Projects:
+With an understanding of the four primary agile value statements, we can turn our attention to what an agile team looks like in practice. Taken collectively, the four value statements lead to software development processes that are highly iterative and incremental and that deliver coded and tested software at the end of each iteration. The following sections cover some of the main ways in which agile teams work. Including that they:
+- Work as one team:
+  - Critical to the success of a project is that all project participants view themselves as one team aimed at a common goal. There is no room for a “throw it over the wall” mentality on an agile project.
+- Work in short iterations:
+  - On an agile project there is no grand delineation of phases—no upfront requirements phase followed by analysis followed by architectural design and so on. Depending upon the actual agile process you select or define, you may put a very short design, modeling, or other phase at the front end of the project. But, once the project has begun in earnest, all work (requirements, design, coding, testing, and so on) happens concurrently within each iteration.
+- Deliver something each iteration:
+  - More crucial than the specific iteration length chosen by a team is that during the iteration they transfrom one or more imprecise requirements statements into coded, tested, and potentially shippable software. 
+- Focus on business priorities:
+  - Agile teams demonstrate a commitment to business priorities in two ways. First, they deliver features in the order specified by the product owner, who is expected to prioritize and combine features into a release that optimizes the return on the organization’s investment in the project. 
+  - Second, agile teams focus on completing and delivering user-valued features rather than on completing isolated tasks (that eventually combine into a uservalued feature). One of the best ways to do this is to work with user stories, which are a lightweight technique for expressing software requirements.
+- Inspect and adapt
+  - The plan created at the start of any project is not a guarantee of what will occur. In fact, it is only a point-in-time guess. Many things will conspire to invalidate the plan—project personnel may come or go, technologies will work better or worse than expected, users will change their minds, competitors may force us to respond differently or more rapidly, and so on. Agile teams view every such change as presenting both the opportunity and need to update the plan in order to better reflect the reality of the current situation.
+
+### An Agile Approach to Planning:
+- Agile teams use three levels of planning: release planning, iteration planning, and daily planning. 
+- The release plan looks ahead for the duration of the release, typically three to six months. An iteration plan looks ahead only the duration of one iteration, typically one to four weeks. A daily plan is the result of team member commitments made to each other usually during a daily standup meeting.
+- Understanding the product owner’s condiditions of satistaction is critical in both release and iteration planning. During release planning, the whole team identifies a way of meeting the conditions of satisfaction for the release, which
+includes scope, schedule, and resources. 
+- To achieve this, the product owner may need to relax one or more of her conditions of satisfaction. A similar process occurs during iteration planning when the conditions of satisfaction are the new features that will be implemented and the high level test cases that demonstrate the features were implemented correctly.
+
+### Estimating Size with Story Points
+- Story Points Are Relative:
+  - Story points are a unit of measure for expressing the overall size of a user story, feature, or other piece of work. When we estimate with story points we assign a point value to each item. The raw value we assign is unimportant. What matters are the relative values. A story that is assigned a two should be twice as much as a story that is assigned a one. It should also be two-thirds of a story that is estimated as three story points.
+  - There are two common ways to get started. The first appoach is to select a story that you expect to be one of the smallest stories you’ll work with and say that story is estimated at 1 story point. 
+  - The second approach is instead to select a story that seems somewhat medium-sized and give it a number somewhere in the middle of the range you expect to use. 
+- Velocity:
+  - Velocity is a measure of a team’s rate of progress. It is calculated by summing the number of story points assigned to each user story that the team completed during the iteration. If the team completed three stories each estimated at five story points then their velocity would be fifteen. If the team completed two five-point stories their velocity would be ten.
+  - If a team completed ten story points of work last iteration, our best guess is that they will complete ten story points this iteration. Since story points are estimates of relative size, this will be true whether they work on two five-point stories or five two-point stories.
