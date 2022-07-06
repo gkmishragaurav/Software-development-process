@@ -47,4 +47,21 @@
 - Valuable : The story should be valuable to the customer. It should clearly state why we are doing this? How is it going to produce value to the customer? What value will the customer realize by implementing this story?
 - Estimable : The user stories should have sufficient detail for the dev team to understand and estimate them. The conversation in 3 C’s helps the team to uncover the details with the product owner and stakeholders, so that they can size the story. If the story is too big and not sizeable, then the story should be refined or decomposed further. Whatever information the team may require should be available in the story for them to estimate it. In case there is a part of the story where the team has to do research, then a “spike” story may be created while the rest of the story can be estimated and taken for implementation. 
 - Small : Good user stories should be small. This does not refer to the size or number of words written in a story. A small story is of the right length so that the implementation team can complete the story within an iteration. It should be small enough that the story is “fully delivered” during an iteration.
-- Testable : A good user story should be testable in order to be “Done”. This is supported by the “Confirmation” in 3 C’s where the team comes up with acceptance criteria for every story after the detailed conversation with the stakeholders.    
+- Testable : A good user story should be testable in order to be “Done”. This is supported by the “Confirmation” in 3 C’s where the team comes up with acceptance criteria for every story after the detailed conversation with the stakeholders. 
+
+### Splitting User Stories:
+- Why is splitting user stories important?
+  - User story splitting might seem too nitty-gritty, but it’s a valuable activity for Agile teams for a few different reasons, primarily: 
+    - Story splitting user stories avoids overwhelm by giving the team smaller, more manageable pieces of work
+    - Story splitting helps teams deliver value to customers early and often
+    - Story splitting changes the mindset from thinking about layers of development to the experience of the user
+    - Story splitting requires that the team prioritizes the highest-value goals and features for users 
+- When To Split A User Story:
+  - A user story should be split when it is too large to fit within a single iteration. Sometimes a user story won’t fit in an iteration because it is bigger than a full iteration. Clearly, a story in this situation needs to be split.
+  - it can be useful to split a large user story (an epic) if a more accurate estimate is necessary.
+- Split by capabilities offered
+  - This is the most obvious way to split a large feature. Look at the different capabilities being offered and split each one into its own story. For example, the capabilities “sort and search” may each be its own story. Splitting further, each way of sorting or searching may be its own story.
+- Split by user roles
+  - Administrators interact with a system differently from normal users. Teachers interact with instructional software differently from students. By defining the different roles in your system, you can split features and stories to address the unique needs of each role.
+- Split by target device
+  - You can’t assume that users are interacting with your system using a standard computer. Various smartphones and IoT devices need to be considered in your stories. Splitting stories by device provides a more natural experience for your users.
