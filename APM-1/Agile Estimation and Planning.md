@@ -120,6 +120,19 @@ includes scope, schedule, and resources.
     - Lending an equal voice to everyone on the team. 
     - Identifying gaps in requirement and implementation.
 
+### priritization:
+- Prioritizing Themes:
+  - Factors In Prioritization:
+    - four factors that must be considered when prioritizing the development of new capabilities:
+      1. The financial value of having the features
+      2. The cost of developing (and perhaps supporting) the new features
+      3. The amount and significance of learning and new knowledge created by developing the features
+      4. The amount of risk removed by developing the features
+    - Combining The Four Factors:
+      - To combine the four prioritiziaton factors, think first about the value of the feature relative to what it would cost to develop today. This gives you an initial priority order for the themes. Those themes with a high value-to-cost ratio are those that should be done first.
+      - Next, think of the other prioritization factors as moving themes forward or backward. For example, suppose that based on its value and cost a theme is of medium priority. The team would therefore tend to work on this theme midway through the current release. However, the technology needed to develop this story is very risky. This would move the theme forward in priority and on the schedule.
+      - It’s not necessary that this initial ranking followed by shifting forward and back be a formal activity. It can (and often does) take place entirely in the head of the product owner. The product owner will then typically present her priorities to the team, who may entreat the product owner to alter priorities slightly based on their assessment of the themes.
+
 
 
 
