@@ -30,3 +30,34 @@ the iterations are.
       - Cards can be arranged like this on a table or a wall. If you’re using a wall, a cork board is very effective because cards can be pinned to the board, rather than taped to the wall.
       <img width="738" alt="Screenshot 2022-07-08 at 2 54 27 PM" src="https://user-images.githubusercontent.com/49789867/177988797-ce49d4dd-5f31-49a1-8864-f1328cc08958.png">
 
+### Iteration Planning:
+- An iteration plan is created in an iteration planning meeting. This meetingshould be attended by the product owner, analysts, programmers, testers, database engineers, user interaction designers, and so on. Anyone involved in taking
+a raw idea and turning it into a functioning product should be present.
+- an iteration plan can be as simple as a spreadsheet or a set of note cards with one task handwritten on each card. In either case, tasks and stories should be organized so that it’s possible to tell which tasks go with which stories.
+- Tasks Are Not Allocated During Iteration Planning
+  - Before looking at the things that are done during iteration planning, it’s important to clarify one thing that is not done. While planning an iteration, tasks are not allocated to specific individuals. At the start of the iteration it may appear obvious who will work on a specific task; however, based on the progress of the whole team against the entire set of tasks, what is obvious at the start may not be what happens during the iteration. 
+- How Iteration Planning Differs From Release Planning
+  - While the release plan looks forward through the release of the product, usually three to six months out at the start of a new project, the iteration plan looks ahead only the length of one iteration, usually one to four weeks.
+  - The user stories of the release plan are decomposed into tasks on the iteration plan. Where the user stories of a release plan are estimated in story points or ideal days, the tasks on the iteration plan are estimated in ideal hours. 
+
+    <img width="703" alt="Screenshot 2022-07-08 at 5 34 14 PM" src="https://user-images.githubusercontent.com/49789867/177990989-f1e84320-79bb-42e6-b8ce-bb83c74819a6.png">
+
+### Velocity-Driven Iteration Planning:
+  - Adjust Priorities
+    - The project could progress by always taking stories from the top of this prioritized list to start each iteration. However, business and project conditions change quickly so it is always worth a quick reconsideration of priorities.
+    - One source of changes to priorities is the iteration review meeting, which is held after an iteration is finished. During the iteration review, the new functionality and capabilities that were added during the iteration are demonstrated to stakeholders, the extended project community, and anyone else who is interested. Valuable feedback is often received during these iteration reviews. The product owner herself should generally not come up with new ideas or changes during the iteration review since she’s been involved daily throughout the iteration. However, many others (including potential customers and users) may be seeing the results of the iteration for the first time. They will often have good new ideas that could preempt previously high priority items.
+  - Determine Target Velocity
+    - The next step in velocity-driven iteration planning is to determine the team’s target velocity. The default assumption by most teams is that their velocity in the next iteration will equal the velocity of the most recent iteration. Beck and Fowler (2000) call this yesterday's weather since our best guess of today's weather is that it will be like yesterday's weather. Other teams prefer to use a moving average over perhaps the last three iterations.
+  - Identify An Iteration Goal
+    - With their priorities and target velocity in mind, the team identifies a goal they would like to achieve during the iteration. The goal succinctly describes what they would like to accomplish during the iteration. 
+  - Select User Stories:
+    - Next, the product owner and team select stories that combine to meet the iteration goal.
+    - In selecting the stories to work on, the product owner and team consider the priority of each story. 
+  - Split User Stories Into Tasks:
+    - Once the appropriate set of user stories has been selected, each is decomposed into the set of tasks necessary to deliver the new functionality. 
+  - Estimate Tasks:
+    - The next step in velocity-driven iteration planning is to estimate each task. Some teams prefer to estimate tasks after all have been identified, other teams prefer to estimate tasks as each is identified. Task estimates are expressed in ideal time. So, if I think that a task will take me six hours of working time I give it an estimate of six hours. I do this even if six hours of time on the task will take me an entire day.
+    - Even though we expect a specific individual will be the one to do a task and even though he may know the most about that task, it does not mean that others have nothing to contribute.
+    - Hearing how long something is expected to take often helps teams identify misunderstandings about a user story or task. Upon hearing an unexpectedly high estimate, a product owner or analyst may discover that the team is heading toward a more detailed solution than necessary. 
+    - when the person who will do the work provides the estimate, the person’s pride and ego may make him reluctant to later admit that an estimate was incorrect. When an estimate is made collaboratively, this reluctance to admit an estimate is wrong goes away.
+
