@@ -28,3 +28,5 @@ the iterations are.
     - Because there is a lot of give-and-take and what-if questions during a typical release planning session, we want an easy way to manipulate what’s in and out of the release and its iterations. The best way of achieving this, assuming everyone is collocated, is to work with 3” x 5” note cards or sticky pads with user stories or features written on them.
       - To plan a release, the product owner selects her top priority items that will fit in the first iteration. Cards are stacked or arranged to indicate which stories comprise each iteration. 
       - Cards can be arranged like this on a table or a wall. If you’re using a wall, a cork board is very effective because cards can be pinned to the board, rather than taped to the wall.
+      <img width="738" alt="Screenshot 2022-07-08 at 2 54 27 PM" src="https://user-images.githubusercontent.com/49789867/177988797-ce49d4dd-5f31-49a1-8864-f1328cc08958.png">
+
