@@ -61,3 +61,32 @@ a raw idea and turning it into a functioning product should be present.
     - Hearing how long something is expected to take often helps teams identify misunderstandings about a user story or task. Upon hearing an unexpectedly high estimate, a product owner or analyst may discover that the team is heading toward a more detailed solution than necessary. 
     - when the person who will do the work provides the estimate, the person’s pride and ego may make him reluctant to later admit that an estimate was incorrect. When an estimate is made collaboratively, this reluctance to admit an estimate is wrong goes away.
 
+<img width="780" alt="Screenshot 2022-07-08 at 5 52 47 PM" src="https://user-images.githubusercontent.com/49789867/178132058-6272b09a-5455-42d7-9d3b-e01d3540eb85.png">
+
+### Commitment-Driven Iteration Planning
+- Ask For A Team Commitment
+  - During an iteration planning meeting I ask the team, “Can you commit to delivering the features we’ve discussed.” Notice that the question I ask is not “Can you commit to delivering the tasks we’ve identified?” That is a very different question, and a far weaker commitment since it is a commitment to complete a set of tasks rather than a commitment to deliver new functionality.
+  - Summing The Estimates:
+    - The best way I’ve found for a team to determine whether they can commit to a set of user stories is to sum up the estimates given to the tasks and see if the sum represents a reasonable amount of work. There may very well be a large amount of uncertainty on some tasks because the work hasn’t been designed and requirements are vague. However, summing the estimates still gives some indication of the overall size of the work.
+  - Individual Commitments:
+    - When assessing the ability to commit to completing a set of new functionality, some teams prefer to allocate each task to a specific person and then assess whether each individual is able to commit to that amount of work.
+    - If you do find a need to allocate tasks to individuals while planning an iteration, the allocations should be considered temporary and subject to complete change once the iteration is planned and underway.
+
+### Factors In Selecting An Iteration Length:
+- The length of the release being worked on
+  - If a team is working toward a release that is perhaps only three months away, month-long iterations will give them only two opportunities to gather end-of-iteration feedback, measure progress, and correct course. This is probably insufficient.
+  - My general rule-of-thumb is that any project will benefit from having at least four or five such opportunities. This means that if the overall project duration will be four or more months, it might be worth considering monthly or four-week iterations. If the overall release will, however, be shorter, the project will benefit from proportionally shorter iterations
+- The amount of uncertainty
+  - Uncertainty comes in multiple forms. There is often uncertainty about exactly what the customer or users need, what the velocity of the team will be, and about technical aspects of the project.
+  - When there is a great deal of uncertainty about the work to be done or the product to be built, short iterations allow more frequent opportunites for the team to measure its progress through its velocity and more opportunities to get feedback from stakeholders, customers, and users
+- The ease of getting feedback
+  - Iteration length should be chosen to maximize the amount, frequency, and timeliness of feedback to the whole team. Depending on the environment, this may mean longer or shorter iterations.
+  - Choose your iteration length to maximize the value of the feedback that can be received from those within and outside the organization.
+- How long priorities can remain unchanged
+  - A key consideration is how long it takes a good new idea to be turned into working software. Consider the case of a team using four-week iterations. If we assume that new ideas are equally likely to occur any time during an iteration then, on average, a new idea can be said to occur in the middle of the iteration.
+- Willingness to go without feedback
+  - Even with a well-intentioned and highly communicative team, it is possible that the results of an iteration could be found worthless when shown to the broader organization at the conclusion of the iteration. 
+- The overhead of iterating
+  - There are costs associated with each iteration. For example, each iteration must be fully regression tested. If this is costly (usually in terms of time), the team may prefer longer, four-week iterations. Naturally, one of the goals of a successful agile team is to rapidly reduce (or nearly eliminate) the overhead associated with each iteration. But, especially during a team’s early iterations, this cost can be significant and will influence the decision about the best iteration length.
+- A feeling of urgency is maintained
+  - The solution to this, of course, is to select an iteration length that evens out the pressure the team feels. The point is not to put the team under more pressume (“You will deliver today!”). Rather, it is to take the total amount of stress they’d normally feel and distribute it more evenly across a suitably long iteration.
