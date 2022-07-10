@@ -90,3 +90,14 @@ a raw idea and turning it into a functioning product should be present.
   - There are costs associated with each iteration. For example, each iteration must be fully regression tested. If this is costly (usually in terms of time), the team may prefer longer, four-week iterations. Naturally, one of the goals of a successful agile team is to rapidly reduce (or nearly eliminate) the overhead associated with each iteration. But, especially during a team’s early iterations, this cost can be significant and will influence the decision about the best iteration length.
 - A feeling of urgency is maintained
   - The solution to this, of course, is to select an iteration length that evens out the pressure the team feels. The point is not to put the team under more pressume (“You will deliver today!”). Rather, it is to take the total amount of stress they’d normally feel and distribute it more evenly across a suitably long iteration.
+
+### Estimating Velocity:
+- Use Historical Values:
+  - Historical values are great—if you have them. The problem with historical values is that they’re of the greatest value when very little has changed between the old project and team and the new project and team. Any personnel or significant technology changes will reduce the usefulness of historical measures of velocity.
+- Run An Iteration:
+  - An ideal way to forecast velocity is to run an iteration (or two or three) and then estimate velocity from the observed velocity during the one to three iterations. Because the best way to predict velocity is to actually observe velocity, this should always be your default approach. 
+- Make a Forecast:
+  - Estimate the number of hours that each person will be available to work on the project each day.
+  - Determine the total number of hours that will be spent on the project during the iteration.
+  - Arbitrarily and somewhat randomly select stories and expand them into their constituent tasks. Repeat until you have identified enough tasks to fill the number of hours in the iteration.
+  - Convert the velocity determined in the prior step into a range.
